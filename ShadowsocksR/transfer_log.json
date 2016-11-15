@@ -1,0 +1,134 @@
+{
+	"60.249.100.177" : {
+		"totalUploadBytes" : 109711206,
+		"totalDownloadBytes" : 8408808455
+	},
+	"202.9.68.106" : {
+		"totalUploadBytes" : 22742,
+		"totalDownloadBytes" : 1856032
+	},
+	"64.137.193.222" : {
+		"totalUploadBytes" : 43603,
+		"totalDownloadBytes" : 73119
+	},
+	"149.56.44.241" : {
+		"totalUploadBytes" : 155206,
+		"totalDownloadBytes" : 11662389
+	},
+	"158.69.223.144" : {
+		"totalUploadBytes" : 112846,
+		"totalDownloadBytes" : 2737244
+	},
+	"158.69.212.186" : {
+		"totalUploadBytes" : 10731,
+		"totalDownloadBytes" : 13058
+	},
+	"209.141.58.145" : {
+		"totalUploadBytes" : 1396276,
+		"totalDownloadBytes" : 20791783
+	},
+	"us3.ss.bydisk.com" : {
+		"totalUploadBytes" : 60210,
+		"totalDownloadBytes" : 1313920
+	},
+	"us2.ss.bydisk.com" : {
+		"totalUploadBytes" : 40387,
+		"totalDownloadBytes" : 65009
+	},
+	"us3.vonc.tk" : {
+		"totalUploadBytes" : 16404,
+		"totalDownloadBytes" : 192314
+	},
+	"sg2.boomss.tk" : {
+		"totalUploadBytes" : 72036,
+		"totalDownloadBytes" : 5356202
+	},
+	"ca.vonc.tk" : {
+		"totalUploadBytes" : 6247,
+		"totalDownloadBytes" : 552510
+	},
+	"us2.vonc.tk" : {
+		"totalUploadBytes" : 4912,
+		"totalDownloadBytes" : 84559
+	},
+	"us1.vonc.tk" : {
+		"totalUploadBytes" : 7447,
+		"totalDownloadBytes" : 122534
+	},
+	"tw1.boomss.tk" : {
+		"totalUploadBytes" : 517,
+		"totalDownloadBytes" : 4635
+	},
+	"us3.boomss.tk" : {
+		"totalUploadBytes" : 7144,
+		"totalDownloadBytes" : 266660
+	},
+	"us2.boomss.tk" : {
+		"totalUploadBytes" : 4473,
+		"totalDownloadBytes" : 66578
+	},
+	"us5.boomss.tk" : {
+		"totalUploadBytes" : 4849,
+		"totalDownloadBytes" : 10001
+	},
+	"sg3.boomss.tk" : {
+		"totalUploadBytes" : 27161,
+		"totalDownloadBytes" : 17971
+	},
+	"sg1.boomss.tk" : {
+		"totalUploadBytes" : 1421,
+		"totalDownloadBytes" : 644
+	},
+	"jp2.boomss.tk" : {
+		"totalUploadBytes" : 659428,
+		"totalDownloadBytes" : 126775590
+	},
+	"jp1.boomss.tk" : {
+		"totalUploadBytes" : 1195,
+		"totalDownloadBytes" : 786
+	},
+	"cn2.boomss.tk" : {
+		"totalUploadBytes" : 551,
+		"totalDownloadBytes" : 0
+	},
+	"us4.boomss.tk" : {
+		"totalUploadBytes" : 39,
+		"totalDownloadBytes" : 0
+	},
+	"us1.boomss.tk" : {
+		"totalUploadBytes" : 3800,
+		"totalDownloadBytes" : 5262
+	},
+	"hk4.boomss.tk" : {
+		"totalUploadBytes" : 3735,
+		"totalDownloadBytes" : 7973
+	},
+	"seaof-153-125-234-147.jp-tokyo-09.arukascloud.io" : {
+		"totalUploadBytes" : 7145503,
+		"totalDownloadBytes" : 159986344
+	},
+	"seaof-153-125-234-178.jp-tokyo-10.arukascloud.io" : {
+		"totalUploadBytes" : 102271,
+		"totalDownloadBytes" : 171666
+	},
+	"seaof-153-125-234-244.jp-tokyo-12.arukascloud.io" : {
+		"totalUploadBytes" : 410828,
+		"totalDownloadBytes" : 8602913
+	},
+	"seaof-153-125-235-209.jp-tokyo-15.arukascloud.io" : {
+		"totalUploadBytes" : 42042211,
+		"totalDownloadBytes" : 4608372785
+	},
+	"seaof-153-125-235-205.jp-tokyo-15.arukascloud.io" : {
+		"totalUploadBytes" : 5384233,
+		"totalDownloadBytes" : 1223567409
+	},
+	"seaof-153-125-238-142.jp-tokyo-21.arukascloud.io" : {
+		"totalUploadBytes" : 12843244,
+		"totalDownloadBytes" : 160390349
+	},
+	"seaof-153-125-238-148.jp-tokyo-21.arukascloud.io" : {
+		"totalUploadBytes" : 14384504,
+		"totalDownloadBytes" : 6797473727
+	}
+}
