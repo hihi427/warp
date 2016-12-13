@@ -1290,3 +1290,7 @@ Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapp
 [2016-11-15 21:42:20] [Warn]Proxy server [app.arukas.io(seaof-153-125-238-142.jp-tokyo-21.arukascloud.io)] connection refused
 [2016-11-15 21:57:34] ShadowsocksR started on port 2046
 [2016-11-15 22:03:07] ShadowsocksR started on port 2046
+[2016-11-17 10:18:40] ShadowsocksR started on port 2046
+[2016-11-18 10:16:01] ShadowsocksR started on port 2046
+[2016-11-18 10:22:34] [Error]connect to update server error
+[2016-11-21 10:44:53] ShadowsocksR started on port 2046

@@ -482,8 +482,8 @@
 		},
 		{
 			"remarks" : "app.arukas.io",
-			"server" : "seaof-153-125-238-148.jp-tokyo-21.arukascloud.io",
-			"server_port" : 31558,
+			"server" : "seaof-153-125-233-241.jp-tokyo-08.arukascloud.io",
+			"server_port" : 31398,
 			"server_udp_port" : 0,
 			"password" : "ji9li7..",
 			"method" : "aes-256-cfb",
