@@ -155,3 +155,10 @@
    在 System.Diagnostics.Process.GetProcessHandle(Int32 access, Boolean throwIfExited)
    在 System.Diagnostics.Process.Kill()
    在 Shadowsocks.Controller.HttpProxyRunner.Stop()
+[2016-12-13 17:48:46] ShadowsocksR started on port 2046
+[2016-12-13 17:55:06] [Error]connect to update server error
+[2016-12-14 09:46:10] ShadowsocksR started on port 2046
+[2016-12-14 12:23:01] ShadowsocksR started on port 2046
+[2016-12-14 13:45:45] ShadowsocksR started on port 2046
+[2016-12-14 13:52:23] ShadowsocksR started on port 2046
+[2016-12-14 16:36:48] ShadowsocksR started on port 2046
