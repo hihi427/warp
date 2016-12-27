@@ -291,14 +291,15 @@ img {
 </style>
 </head>
 <body>
-<h1>ShadowsocksR C# 版本4.0</h1>
+<h1>ShadowsocksR C# 版本4.0.2</h1>
 <p>ZeroNet:<a href="http://127.0.0.1:43110/shadowsocksr.bit">shadowsocksr.bit</a><br />
 BitTorrent Sync：BHS55LP54SO7A434QBB5Z2O6B7A45B2BX<br />
 发布链接：<a href="https://github.com/breakwa11/shadowsocks-rss">https://github.com/breakwa11/shadowsocks-rss</a><br />
 服务端配置教程：<a href="https://github.com/breakwa11/shadowsocks-rss/wiki/Server-Setup">Wiki</a> （含单用户和多用户）<br />
 ShadowsocksR其它分支：<a href="https://github.com/breakwa11/shadowsocks/tree/manyuser">SSR python manyuser</a>, <a href="https://github.com/breakwa11/shadowsocks-libev">SSR-libev</a><br />
-iOS APP：<a href="https://itunes.apple.com/us/app/potatso-qiang-da-wang-luo/id1070901416">Potatso</a>, <a href="https://itunes.apple.com/us/app/shadowrocket/id932747118">Shadowrocket</a><br />
-MAC APP：<a href="https://github.com/yichengchen/ShadowsocksX-R/releases">ShadowsocksX-R</a>, <a href="https://github.com/qinyuhang/ShadowsocksX-NG/releases">ShadowsocksX-NG</a></p>
+iOS APP： <a href="https://itunes.apple.com/us/app/shadowrocket/id932747118">Shadowrocket</a>, <a href="https://itunes.apple.com/cn/app/id1178584911">Wingy</a>, <a href="https://itunes.apple.com/us/app/potatso-qiang-da-wang-luo/id1070901416">Potatso</a><br />
+MAC APP：<a href="https://github.com/qinyuhang/ShadowsocksX-NG/releases">ShadowsocksX-NG</a>, <a href="https://github.com/yichengchen/ShadowsocksX-R/releases">ShadowsocksX-R</a><br />
+其它：<a href="https://github.com/zhuhaow/NEKit">NEKit</a></p>
 <p>推荐使用ZeroNet地址，或BitTorrent Sync免翻自动更新，最及时自动获取最新版本<br />
 注意发布压缩包内有一个以sig后缀的签名文件（如果没有签名文件，即文件已经被修改过），<strong>您应该使用GPG进行校验</strong><br />
 公钥地址 <a href="https://github.com/breakwa11/pubkey">https://github.com/breakwa11/pubkey</a><br />
@@ -319,11 +320,20 @@ Fingerping: CDFB 1D2E A63B 9149 3EAE  C35E D7CE 0EDE DA0F 4B18<br />
 <p>你要是有兴趣和我联系的话，特别是编程技术上的支持，那就到<br />
 Twitter: <a href="https://twitter.com/breakwa11">@breakwa11</a><br />
 聊天室: <a href="https://gitter.im/breakwa11/shadowsocksr">https://gitter.im/breakwa11/shadowsocksr</a><br />
+Riot: <code>#ssr:matrix.org</code><br />
 社区: <a href="https://plus.google.com/communities/117390969460066916686">ShadowsocksR</a><br />
 Blogger: <a href="https://breakwa11.blogspot.com">https://breakwa11.blogspot.com</a><br />
 Google Group: <a href="https://groups.google.com/forum/#!forum/shadowsocksr">ShadowsocksR</a><br />
 TOX: D211FF64C848E03161700E74714A2100D363757AED4982F35486CC0713577C2F356B7DD84CAB  </p>
 <h3>更新记录：</h3>
+<p>版本4.0.2 <em>2016-12-24</em><br />
+1.修正64位配置<br />
+2.修正无法更新PAC<br />
+3.调整消息提示和更新提示<br />
+4.连接Bug修正及剪贴板导入修正<br />
+5.设置系统代理修正<br />
+6.加密性能优化<br />
+7.调socks5及http connect握手响应时机</p>
 <p>版本4.0.1 <em>2016-12-12</em><br />
 1.修正自效验在部分环境下的效验错误<br />
 2.从剪贴板导入多个节点时按次序导入<br />
