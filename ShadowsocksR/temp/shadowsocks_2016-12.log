@@ -242,3 +242,120 @@
 [2016-12-28 12:42:38] [Warn]Proxy server [app.arukas.io(seaof-153-125-238-148.jp-tokyo-21.arukascloud.io)] connection refused
 [2016-12-29 11:01:21] ShadowsocksR started on port 2046
 [2016-12-29 17:37:03] ShadowsocksR started on port 2046
+[2016-12-29 20:17:48] ShadowsocksR started on port 2046
+[2016-12-30 12:03:08] [Error]connect to update server error
+[2016-12-30 12:03:08] ShadowsocksR started on port 2046
+[2016-12-31 04:45:52] [Info]Proxy server [app.arukas.io(seaof-153-125-235-212.jp-tokyo-15.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.235.212:31330
+[2016-12-31 04:45:52] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void LogExceptionAndClose(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-12-31 04:45:52] [Info]Proxy server [app.arukas.io(seaof-153-125-235-212.jp-tokyo-15.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.235.212:31330
+[2016-12-31 04:45:52] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void LogExceptionAndClose(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-12-31 04:45:52] [Info]Proxy server [app.arukas.io(seaof-153-125-233-241.jp-tokyo-08.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.233.241:31398
+[2016-12-31 04:45:52] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void LogExceptionAndClose(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-12-31 04:45:52] [Info]Proxy server [app.arukas.io(seaof-153-125-235-212.jp-tokyo-15.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.235.212:31330
+[2016-12-31 04:45:52] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void LogExceptionAndClose(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-12-31 04:45:53] [Info]Proxy server [app.arukas.io(seaof-153-125-233-241.jp-tokyo-08.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.233.241:31398
+[2016-12-31 04:45:53] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void LogExceptionAndClose(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-12-31 11:04:43] [Error]connect to update server error
+[2016-12-31 12:09:00] [Warn]Proxy server [app.arukas.io(seaof-59-106-238-238.jp-tokyo-07.arukascloud.io)] connection refused
+[2016-12-31 17:02:22] [Info]Proxy server [app.arukas.io(seaof-153-125-238-143.jp-tokyo-21.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.238.143:31258
+[2016-12-31 17:02:22] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void LogExceptionAndClose(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-12-31 17:02:22] [Info]Proxy server [app.arukas.io(seaof-153-125-233-241.jp-tokyo-08.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.233.241:31398
+[2016-12-31 17:02:22] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void LogExceptionAndClose(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+
+[2016-12-31 17:02:22] [Info]Proxy server [app.arukas.io(seaof-153-125-238-143.jp-tokyo-21.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.238.143:31258
+[2016-12-31 17:02:22] Boolean LogSocketException(System.String, System.String, System.Exception)
+Void LogException(System.Exception)
+Void LogExceptionAndClose(System.Exception)
+Void ConnectCallback(System.IAsyncResult)
+Void Complete(IntPtr)
+Void RunInternal(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object, Boolean)
+Void Run(System.Threading.ExecutionContext, System.Threading.ContextCallback, System.Object)
+Void Complete(IntPtr)
+Void ProtectedInvokeCallback(System.Object, IntPtr)
+Void CompletionPortCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapped*)
+

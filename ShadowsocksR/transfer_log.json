@@ -24,8 +24,8 @@
 		"totalDownloadBytes" : 0
 	},
 	"209.141.58.145" : {
-		"totalUploadBytes" : 165572,
-		"totalDownloadBytes" : 1949732
+		"totalUploadBytes" : 980748,
+		"totalDownloadBytes" : 12828754
 	},
 	"us3.ss.bydisk.com" : {
 		"totalUploadBytes" : 0,
@@ -132,12 +132,12 @@
 		"totalDownloadBytes" : 66748340
 	},
 	"seaof-153-125-235-212.jp-tokyo-15.arukascloud.io" : {
-		"totalUploadBytes" : 599397,
-		"totalDownloadBytes" : 1191605761
+		"totalUploadBytes" : 204706,
+		"totalDownloadBytes" : 140729
 	},
 	"seaof-153-125-233-241.jp-tokyo-08.arukascloud.io" : {
-		"totalUploadBytes" : 797425,
-		"totalDownloadBytes" : 585421682
+		"totalUploadBytes" : 2047053,
+		"totalDownloadBytes" : 18021766
 	},
 	"seaof-153-125-232-146.jp-tokyo-03.arukascloud.io" : {
 		"totalUploadBytes" : 5822749,
@@ -148,15 +148,15 @@
 		"totalDownloadBytes" : 25946834
 	},
 	"seaof-59-106-238-238.jp-tokyo-07.arukascloud.io" : {
-		"totalUploadBytes" : 2153627,
-		"totalDownloadBytes" : 1592184368
+		"totalUploadBytes" : 0,
+		"totalDownloadBytes" : 0
 	},
 	"seaof-153-125-232-145.jp-tokyo-03.arukascloud.io" : {
-		"totalUploadBytes" : 583917,
-		"totalDownloadBytes" : 74765757
+		"totalUploadBytes" : 1974199,
+		"totalDownloadBytes" : 17316868
 	},
 	"seaof-153-125-238-143.jp-tokyo-21.arukascloud.io" : {
-		"totalUploadBytes" : 637959,
-		"totalDownloadBytes" : 912690156
+		"totalUploadBytes" : 1009825,
+		"totalDownloadBytes" : 9942472
 	}
 }
