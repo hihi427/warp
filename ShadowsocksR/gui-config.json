@@ -30,7 +30,7 @@
 			"udp_over_tcp" : false,
 			"protocol" : "origin",
 			"enable" : true,
-			"id" : "E69CD50B96911E428E602CEE2ADC0A20"
+			"id" : "50333EF3026654963D262D9E1EF01F05"
 		},
 		{
 			"remarks" : "app.arukas.io",
@@ -97,7 +97,7 @@
 			"id" : "82E1DD7EDF1981E956B21CC35F383C4C"
 		}
 	],
-	"index" : 4,
+	"index" : 2,
 	"random" : true,
 	"sysProxyMode" : 0,
 	"shareOverLan" : false,
@@ -106,7 +106,7 @@
 	"localAuthPassword" : "3AKOYFWPVIoa_Wuxv2qn",
 	"dns_server" : "",
 	"reconnectTimes" : 2,
-	"randomAlgorithm" : 2,
+	"randomAlgorithm" : 3,
 	"TTL" : 180,
 	"connect_timeout" : 10,
 	"proxyRuleMode" : 0,
