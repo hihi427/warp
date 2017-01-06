@@ -97,7 +97,7 @@
 			"id" : "82E1DD7EDF1981E956B21CC35F383C4C"
 		}
 	],
-	"index" : 2,
+	"index" : 4,
 	"random" : true,
 	"sysProxyMode" : 0,
 	"shareOverLan" : false,
@@ -106,7 +106,7 @@
 	"localAuthPassword" : "3AKOYFWPVIoa_Wuxv2qn",
 	"dns_server" : "",
 	"reconnectTimes" : 2,
-	"randomAlgorithm" : 3,
+	"randomAlgorithm" : 2,
 	"TTL" : 180,
 	"connect_timeout" : 10,
 	"proxyRuleMode" : 0,
@@ -124,6 +124,11 @@
 	"sameHostForSameTarget" : false,
 	"keepVisitTime" : 180,
 	"isHideTips" : true,
+	"logViewer" : {
+		"AlwaysOnTop" : false,
+		"WrapText" : false,
+		"Font" : "Consolas, 8pt"
+	},
 	"token" : {
 
 	},
