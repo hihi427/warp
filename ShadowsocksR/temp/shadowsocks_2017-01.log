@@ -840,3 +840,6 @@ Void PerformIOCompletionCallback(UInt32, UInt32, System.Threading.NativeOverlapp
 [2017-01-30 21:14:03] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-212.jp-tokyo-15.arukascloud.io)] connection refused
 [2017-01-30 21:14:03] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-212.jp-tokyo-15.arukascloud.io)] connection refused
 [2017-01-30 21:55:51] ShadowsocksR started on port 2046
+[2017-01-30 22:00:36] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-212.jp-tokyo-15.arukascloud.io)] connection refused
+[2017-01-30 22:00:36] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-212.jp-tokyo-15.arukascloud.io)] connection refused
+[2017-01-30 22:01:02] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-212.jp-tokyo-15.arukascloud.io)] connection refused
