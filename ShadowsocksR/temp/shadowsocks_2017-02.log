@@ -80,3 +80,12 @@
 [2017-02-24 09:33:36] [Info] Proxy server [app.arukas.io(seaof-153-125-232-145.jp-tokyo-03.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.232.145:31673
 [2017-02-24 09:33:36] [Info] Proxy server [app.arukas.io(seaof-153-125-238-144.jp-tokyo-21.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.238.144:31210
 [2017-02-24 09:33:36] [Error] connect to update server error
+[2017-02-24 18:56:30] ShadowsocksR started on port 2046
+[2017-02-24 18:56:41] [Warn] Proxy server [app.arukas.io(seaof-59-106-238-236.jp-tokyo-07.arukascloud.io)] connection refused
+[2017-02-24 19:05:49] [Warn] Proxy server [app.arukas.io(seaof-59-106-238-236.jp-tokyo-07.arukascloud.io)] connection refused
+[2017-02-24 21:19:14] [Warn] Proxy server [app.arukas.io(seaof-59-106-238-236.jp-tokyo-07.arukascloud.io)] connection refused
+[2017-02-24 21:19:14] [Warn] Proxy server [app.arukas.io(seaof-59-106-238-236.jp-tokyo-07.arukascloud.io)] connection refused
+[2017-02-24 21:19:14] [Warn] Proxy server [app.arukas.io(seaof-59-106-238-236.jp-tokyo-07.arukascloud.io)] connection refused
+[2017-02-24 21:19:14] [Warn] Proxy server [app.arukas.io(seaof-59-106-238-236.jp-tokyo-07.arukascloud.io)] connection refused
+[2017-02-24 21:19:14] [Warn] Proxy server [app.arukas.io(seaof-59-106-238-236.jp-tokyo-07.arukascloud.io)] connection refused
+[2017-02-24 21:19:16] [Warn] Proxy server [app.arukas.io(seaof-59-106-238-236.jp-tokyo-07.arukascloud.io)] connection refused
