@@ -1,0 +1,26 @@
+[2017-03-01 01:28:40] [Info] Proxy server [app.arukas.io(seaof-59-106-238-238.jp-tokyo-07.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 59.106.238.238:31577
+[2017-03-01 01:28:40] [Info] Proxy server [app.arukas.io(seaof-153-125-232-145.jp-tokyo-03.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.232.145:31673
+[2017-03-01 01:28:41] [Info] Proxy server [app.arukas.io(seaof-153-125-235-204.jp-tokyo-15.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.235.204:31448
+[2017-03-06 11:51:03] [Info] Proxy server [app.arukas.io(seaof-59-106-238-238.jp-tokyo-07.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 59.106.238.238:31577
+[2017-03-06 11:51:12] [Info] Proxy server [app.arukas.io(seaof-59-106-238-238.jp-tokyo-07.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 59.106.238.238:31577
+[2017-03-06 11:51:12] [Info] Proxy server [app.arukas.io(seaof-153-125-235-204.jp-tokyo-15.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.235.204:31448
+[2017-03-06 11:51:12] [Info] Proxy server [app.arukas.io(seaof-153-125-235-204.jp-tokyo-15.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 153.125.235.204:31448
+[2017-03-06 11:51:12] [Info] Proxy server [app.arukas.io(seaof-59-106-238-238.jp-tokyo-07.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 59.106.238.238:31577
+[2017-03-06 11:51:12] [Info] Proxy server [app.arukas.io(seaof-59-106-238-238.jp-tokyo-07.arukascloud.io)] HostUnreachable:套接字操作尝试一个无法连接的主机。 59.106.238.238:31577
+[2017-03-06 14:56:09] [Warn] Proxy server [app.arukas.io(seaof-153-125-238-144.jp-tokyo-21.arukascloud.io)] connection refused
+[2017-03-06 14:56:16] [Warn] Proxy server [app.arukas.io(seaof-153-125-233-241.jp-tokyo-08.arukascloud.io)] connection refused
+[2017-03-06 14:56:52] [Warn] Proxy server [app.arukas.io(seaof-153-125-233-241.jp-tokyo-08.arukascloud.io)] connection refused
+[2017-03-06 14:56:59] [Warn] Proxy server [app.arukas.io(seaof-153-125-233-241.jp-tokyo-08.arukascloud.io)] connection refused
+[2017-03-06 14:57:27] [Warn] Proxy server [app.arukas.io(seaof-153-125-238-144.jp-tokyo-21.arukascloud.io)] connection refused
+[2017-03-06 15:07:44] [Warn] Proxy server [app.arukas.io(seaof-153-125-238-144.jp-tokyo-21.arukascloud.io)] connection refused
+[2017-03-06 15:07:45] [Warn] Proxy server [app.arukas.io(seaof-153-125-238-144.jp-tokyo-21.arukascloud.io)] connection refused
+[2017-03-06 15:07:45] [Warn] Proxy server [app.arukas.io(seaof-153-125-238-144.jp-tokyo-21.arukascloud.io)] connection refused
+[2017-03-06 20:55:01] [Error] System.Exception: 端口已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config, Int32 port)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+[2017-03-06 20:55:11] [Error] connect to update server error
+[2017-03-06 20:58:27] [Error] System.Exception: 端口已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config, Int32 port)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+[2017-03-06 20:58:37] [Error] connect to update server error
+[2017-03-06 21:00:06] ShadowsocksR started on port 2046
