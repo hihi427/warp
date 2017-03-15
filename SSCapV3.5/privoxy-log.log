@@ -1,0 +1,46 @@
+2017-03-13 09:46:32.681 00000654 Error: No server or forwarder response received on socket 2780.
+2017-03-13 09:46:32.717 00000ae0 Error: No server or forwarder response received on socket 2776.
+2017-03-13 09:46:32.720 00001274 Error: No server or forwarder response received on socket 2792.
+2017-03-13 09:50:53.083 00001708 Error: No server or forwarder response received on socket 2684.
+2017-03-13 09:52:33.357 000015a8 Error: Response line lacks reason phrase: HTTP/1.1 503
+2017-03-13 09:53:03.837 00000a98 Error: Response line lacks reason phrase: HTTP/1.1 503
+2017-03-13 09:53:34.284 000017a8 Error: Response line lacks reason phrase: HTTP/1.1 503
+2017-03-13 09:55:34.850 000015a8 Error: Response line lacks reason phrase: HTTP/1.1 503
+2017-03-13 09:57:33.202 0000117c Error: Response line lacks reason phrase: HTTP/1.1 404
+2017-03-13 09:57:35.312 00001564 Error: Response line lacks reason phrase: HTTP/1.1 503
+2017-03-13 09:57:46.845 000012f4 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 09:57:50.368 00001728 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 09:57:52.516 000016f4 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 09:57:55.330 000015a8 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 09:57:56.097 00000254 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 09:57:58.015 000010e8 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 09:57:59.460 00000b84 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 09:58:02.905 000012a4 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 10:05:49.021 000012d0 Error: write to client failed: WSAECONNRESET - Connection reset by peer.
+2017-03-13 10:05:51.092 000003e0 Error: write to client failed: WSAECONNRESET - Connection reset by peer.
+2017-03-13 10:05:52.076 0000156c Error: write to client failed: WSAECONNRESET - Connection reset by peer.
+2017-03-13 14:02:45.833 00001200 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 14:02:47.622 00001644 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 14:02:49.721 000011e4 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 14:02:52.426 00001430 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 14:02:52.857 000016a8 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 14:02:53.729 00000c0c Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 14:02:55.133 00000ea0 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 14:02:58.843 0000161c Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 16:06:58.034 00001a00 Error: write to client failed: WSAECONNRESET - Connection reset by peer.
+2017-03-13 16:06:59.017 000007c8 Error: write to client failed: WSAECONNRESET - Connection reset by peer.
+2017-03-13 17:35:11.683 00001bac Error: No server or forwarder response received on socket 3192.
+2017-03-13 17:35:11.751 0000067c Error: No server or forwarder response received on socket 2340.
+2017-03-13 17:35:11.716 00000fa8 Error: No server or forwarder response received on socket 3080.
+2017-03-13 18:02:59.073 00001ac0 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 18:03:02.138 00001304 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 18:03:04.472 0000173c Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 18:03:07.508 00001bf4 Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 18:03:07.965 0000063c Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 18:03:08.895 0000085c Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-13 18:03:10.316 0000122c Error: Response line lacks reason phrase: HTTP/1.1 206
+2017-03-15 10:47:44.977 000014b4 Error: write to client failed: WSAECONNRESET - Connection reset by peer.
+2017-03-15 10:47:47.087 00001598 Error: No server or forwarder response received on socket 2584.
+2017-03-15 10:47:47.136 000015a0 Error: No server or forwarder response received on socket 2588.
+2017-03-15 10:47:47.144 0000159c Error: No server or forwarder response received on socket 1360.
+2017-03-15 10:48:03.529 000016e8 Error: write to client failed: WSAECONNRESET - Connection reset by peer.
