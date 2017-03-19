@@ -71,8 +71,8 @@
 		{
 			"remarks" : "app.arukas.io",
 			"id" : "11EC445FD8BCD76CB8F4811577821E77",
-			"server" : "seaof-59-106-238-238.jp-tokyo-07.arukascloud.io",
-			"server_port" : 31577,
+			"server" : "seaof-59-106-238-243.jp-tokyo-07.arukascloud.io",
+			"server_port" : 31552,
 			"server_udp_port" : 0,
 			"password" : "ji9li7..",
 			"method" : "aes-256-cfb",
@@ -155,7 +155,7 @@
 		},
 		{
 			"remarks" : "app.arukas.io",
-			"id" : "C5223AACCC506833FCA1DE65AB7A3AD0",
+			"id" : "0EC44245141BE4E08937EAE908628F1A",
 			"server" : "153.125.234.209",
 			"server_port" : 31994,
 			"server_udp_port" : 0,
