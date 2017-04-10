@@ -1,179 +1,30 @@
 {
-	"60.249.100.177" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
+	"seaof-153-125-238-142.jp-tokyo-21.arukascloud.io" : {
+		"totalUploadBytes" : 51149,
+		"totalDownloadBytes" : 3606292
 	},
-	"202.9.68.106" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"64.137.193.222" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"149.56.44.241" : {
-		"totalUploadBytes" : 2413,
-		"totalDownloadBytes" : 441
-	},
-	"158.69.223.144" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"158.69.212.186" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
+	"64.137.216.193" : {
+		"totalUploadBytes" : 6185,
+		"totalDownloadBytes" : 2317
 	},
 	"209.141.58.145" : {
-<<<<<<< HEAD
-		"totalUploadBytes" : 7219169,
-		"totalDownloadBytes" : 237665175
-=======
-		"totalUploadBytes" : 7232309,
-		"totalDownloadBytes" : 239952407
->>>>>>> origin/master
+		"totalUploadBytes" : 45708,
+		"totalDownloadBytes" : 395591
 	},
-	"us3.ss.bydisk.com" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
+	"153.125.234.178" : {
+		"totalUploadBytes" : 4042,
+		"totalDownloadBytes" : 40960
 	},
-	"us2.ss.bydisk.com" : {
-		"totalUploadBytes" : 900,
-		"totalDownloadBytes" : 7597
-	},
-	"us3.vonc.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"sg2.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"ca.vonc.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"us2.vonc.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"us1.vonc.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"tw1.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"us3.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"us2.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"us5.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"sg3.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"sg1.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"jp2.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"jp1.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"cn2.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"us4.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"us1.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"hk4.boomss.tk" : {
-		"totalUploadBytes" : 0,
-		"totalDownloadBytes" : 0
-	},
-	"seaof-153-125-234-147.jp-tokyo-09.arukascloud.io" : {
-		"totalUploadBytes" : 7145503,
-		"totalDownloadBytes" : 159986344
-	},
-	"seaof-153-125-234-178.jp-tokyo-10.arukascloud.io" : {
-		"totalUploadBytes" : 102271,
-		"totalDownloadBytes" : 171666
-	},
-	"seaof-153-125-234-244.jp-tokyo-12.arukascloud.io" : {
-		"totalUploadBytes" : 410828,
-		"totalDownloadBytes" : 8602913
-	},
-	"seaof-153-125-235-209.jp-tokyo-15.arukascloud.io" : {
-		"totalUploadBytes" : 42042211,
-		"totalDownloadBytes" : 4608372785
-	},
-	"seaof-153-125-235-205.jp-tokyo-15.arukascloud.io" : {
-		"totalUploadBytes" : 5384233,
-		"totalDownloadBytes" : 1223567409
-	},
-	"seaof-153-125-238-142.jp-tokyo-21.arukascloud.io" : {
-		"totalUploadBytes" : 13194337,
-		"totalDownloadBytes" : 164209542
-	},
-	"seaof-153-125-238-148.jp-tokyo-21.arukascloud.io" : {
-		"totalUploadBytes" : 4921736,
-		"totalDownloadBytes" : 66748340
-	},
-	"seaof-153-125-235-212.jp-tokyo-15.arukascloud.io" : {
-		"totalUploadBytes" : 3236207,
-		"totalDownloadBytes" : 1641592567
-	},
-	"seaof-153-125-233-241.jp-tokyo-08.arukascloud.io" : {
-		"totalUploadBytes" : 22460201,
-		"totalDownloadBytes" : 9589020784
-	},
-	"seaof-153-125-232-146.jp-tokyo-03.arukascloud.io" : {
-		"totalUploadBytes" : 5822749,
-		"totalDownloadBytes" : 113544431
-	},
-	"seaof-59-106-238-236.jp-tokyo-07.arukascloud.io" : {
-		"totalUploadBytes" : 7979570,
-		"totalDownloadBytes" : 2035731378
-	},
-	"seaof-59-106-238-238.jp-tokyo-07.arukascloud.io" : {
-		"totalUploadBytes" : 11038830,
-		"totalDownloadBytes" : 1762166319
-	},
-	"seaof-153-125-232-145.jp-tokyo-03.arukascloud.io" : {
-		"totalUploadBytes" : 31459926,
-		"totalDownloadBytes" : 5013234669
-	},
-	"seaof-153-125-238-143.jp-tokyo-21.arukascloud.io" : {
-		"totalUploadBytes" : 3082510,
-		"totalDownloadBytes" : 1104027670
-	},
-	"seaof-153-125-235-204.jp-tokyo-15.arukascloud.io" : {
-		"totalUploadBytes" : 26267094,
-		"totalDownloadBytes" : 8665724199
-	},
-	"seaof-153-125-238-144.jp-tokyo-21.arukascloud.io" : {
-		"totalUploadBytes" : 26381406,
-		"totalDownloadBytes" : 5484421937
+	"153.125.239.176" : {
+		"totalUploadBytes" : 2604,
+		"totalDownloadBytes" : 24576
 	},
 	"seaof-59-106-238-243.jp-tokyo-07.arukascloud.io" : {
-		"totalUploadBytes" : 2559,
-		"totalDownloadBytes" : 109281
+		"totalUploadBytes" : 18344,
+		"totalDownloadBytes" : 134395
+	},
+	"seaof-153-125-239-178.jp-tokyo-26.arukascloud.io" : {
+		"totalUploadBytes" : 15983,
+		"totalDownloadBytes" : 32768
 	}
 }

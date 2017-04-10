@@ -3,43 +3,9 @@
    "autoban" : false,
    "configs" : [
       {
-<<<<<<< HEAD
-         "ConnectedTimes" : 13,
+         "ConnectedTimes" : 2,
          "Download_traffic" : 0.0,
-         "FailureTimes" : 13,
-=======
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 2856.0,
-         "FailureTimes" : 0,
-         "Latency" : 125,
-         "Upload_traffic" : 1134.0,
-         "charge_type" : 0,
-         "enable" : true,
-         "method" : "aes-256-cfb",
-         "password" : "ccf2017",
-         "remarks" : "",
-         "server" : "153.125.233.240",
-         "server_port" : 31902
-      },
-      {
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 2856.0,
-         "FailureTimes" : 0,
-         "Latency" : 94,
-         "Upload_traffic" : 1134.0,
-         "charge_type" : 0,
-         "enable" : true,
-         "method" : "aes-256-cfb",
-         "password" : "ccf2017",
-         "remarks" : "",
-         "server" : "153.125.234.209",
-         "server_port" : 31994
-      },
-      {
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 0.0,
-         "FailureTimes" : 3,
->>>>>>> origin/master
+         "FailureTimes" : 1,
          "Latency" : 0,
          "Upload_traffic" : 0.0,
          "charge_type" : 0,
@@ -51,41 +17,11 @@
          "server_port" : 3000
       },
       {
-<<<<<<< HEAD
-         "ConnectedTimes" : 25,
-         "Download_traffic" : 105400.0,
-         "FailureTimes" : 0,
-         "Latency" : 62,
-         "Upload_traffic" : 39279.0,
-=======
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 2856.0,
-         "FailureTimes" : 0,
-         "Latency" : 94,
-         "Upload_traffic" : 1134.0,
->>>>>>> origin/master
-         "charge_type" : 0,
-         "enable" : true,
-         "method" : "aes-256-cfb",
-         "password" : "ji9li7..",
-         "remarks" : "",
-         "server" : "seaof-153-125-235-204.jp-tokyo-15.arukascloud.io",
-         "server_port" : 31448
-      },
-      {
-<<<<<<< HEAD
-         "ConnectedTimes" : 5,
-         "Download_traffic" : 3808.0,
-         "FailureTimes" : 0,
-         "Latency" : 156,
-         "Upload_traffic" : 1890.0,
-=======
          "ConnectedTimes" : 4,
-         "Download_traffic" : 3808.0,
+         "Download_traffic" : 77228.0,
          "FailureTimes" : 0,
-         "Latency" : 109,
-         "Upload_traffic" : 1512.0,
->>>>>>> origin/master
+         "Latency" : 141,
+         "Upload_traffic" : 7442.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -95,29 +31,25 @@
          "server_port" : 31687
       },
       {
-         "ConnectedTimes" : 4,
-         "Download_traffic" : 3808.0,
+         "ConnectedTimes" : 1,
+         "Download_traffic" : 952.0,
          "FailureTimes" : 0,
-<<<<<<< HEAD
-         "Latency" : 78,
-=======
-         "Latency" : 109,
-         "Upload_traffic" : 1512.0,
+         "Latency" : 141,
+         "Upload_traffic" : 378.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
          "password" : "ji9li7..",
          "remarks" : "",
-         "server" : "seaof-153-125-233-240.jp-tokyo-08.arukascloud.io",
-         "server_port" : 31835
+         "server" : "seaof-153-125-235-204.jp-tokyo-15.arukascloud.io",
+         "server_port" : 31448
       },
       {
-         "ConnectedTimes" : 4,
-         "Download_traffic" : 3808.0,
+         "ConnectedTimes" : 1,
+         "Download_traffic" : 952.0,
          "FailureTimes" : 0,
-         "Latency" : 110,
->>>>>>> origin/master
-         "Upload_traffic" : 1512.0,
+         "Latency" : 171,
+         "Upload_traffic" : 378.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -125,67 +57,11 @@
          "remarks" : "",
          "server" : "seaof-59-106-238-243.jp-tokyo-07.arukascloud.io",
          "server_port" : 31552
-      },
-      {
-         "ConnectedTimes" : 3,
-<<<<<<< HEAD
-         "Download_traffic" : 0.0,
-         "FailureTimes" : 0,
-         "Latency" : 140,
-=======
-         "Download_traffic" : 2856.0,
-         "FailureTimes" : 0,
-         "Latency" : 94,
-         "Upload_traffic" : 1134.0,
-         "charge_type" : 0,
-         "enable" : true,
-         "method" : "aes-256-cfb",
-         "password" : "ji9li7..",
-         "remarks" : "",
-         "server" : "seaof-153-125-232-145.jp-tokyo-03.arukascloud.io",
-         "server_port" : 31673
-      },
-      {
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 2856.0,
-         "FailureTimes" : 0,
-         "Latency" : 343,
->>>>>>> origin/master
-         "Upload_traffic" : 1134.0,
-         "charge_type" : 0,
-         "enable" : true,
-         "method" : "aes-256-cfb",
-         "password" : "ccf2017",
-         "remarks" : "",
-         "server" : "153.125.234.178",
-         "server_port" : 31213
-      },
-      {
-<<<<<<< HEAD
-         "ConnectedTimes" : 2,
-         "Download_traffic" : 0.0,
-         "FailureTimes" : 0,
-         "Latency" : 156,
-         "Upload_traffic" : 756.0,
-=======
-         "ConnectedTimes" : 31,
-         "Download_traffic" : 1922747.0,
-         "FailureTimes" : 0,
-         "Latency" : 94,
-         "Upload_traffic" : 109647.0,
->>>>>>> origin/master
-         "charge_type" : 0,
-         "enable" : true,
-         "method" : "aes-256-cfb",
-         "password" : "ccf2017",
-         "remarks" : "",
-         "server" : "153.125.239.176",
-         "server_port" : 31110
       }
    ],
    "enable" : true,
    "global" : true,
-   "idInUse" : 9,
+   "idInUse" : 1,
    "index" : 0,
    "localPort" : 2046,
    "localSocksPass" : "",
@@ -195,8 +71,8 @@
    "random" : false,
    "reconnectTimes" : 3,
    "runAtStartup" : false,
-   "shareOverLan" : true,
-   "startInSystray" : false,
+   "shareOverLan" : false,
+   "startInSystray" : true,
    "strHotKey" : "",
    "testing_url" : "http://global.bing.com",
    "useOnlinePac" : false

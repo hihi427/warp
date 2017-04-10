@@ -5,3 +5,101 @@
 [2017-04-10 21:40:23] [Warn] Proxy server [app.arukas.io(seaof-153-125-233-240.jp-tokyo-08.arukascloud.io)] connection refused
 [2017-04-10 21:40:23] [Warn] Proxy server [app.arukas.io(seaof-153-125-233-240.jp-tokyo-08.arukascloud.io)] connection refused
 [2017-04-10 21:47:58] ShadowsocksR started on port 2046
+[2017-04-10 22:10:33] System.Runtime.Serialization.SerializationException: Invalid JSON string
+   在 SimpleJson.SimpleJson.DeserializeObject(String json)
+   在 SimpleJson.SimpleJson.DeserializeObject(String json, Type type, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 SimpleJson.SimpleJson.DeserializeObject[T](String json, IJsonSerializerStrategy jsonSerializerStrategy)
+   在 Shadowsocks.Model.ServerTransferTotal.Load()
+[2017-04-10 22:10:33] ShadowsocksR started on port 2046
+[2017-04-10 22:13:02] [Warn] Proxy server [app.arukas.io(153.125.238.142)] connection refused
+[2017-04-10 22:13:03] [Warn] Proxy server [app.arukas.io(153.125.238.142)] connection refused
+[2017-04-10 22:13:05] [Warn] Proxy server [app.arukas.io(153.125.238.142)] connection refused
+[2017-04-10 22:13:09] [Warn] Proxy server [app.arukas.io(153.125.233.240)] connection refused
+[2017-04-10 22:13:10] [Warn] Proxy server [app.arukas.io(153.125.238.142)] connection refused
+[2017-04-10 22:13:12] [Warn] Proxy server [app.arukas.io(153.125.233.240)] connection refused
+[2017-04-10 22:13:27] [Warn] Proxy server [app.arukas.io(153.125.233.240)] connection refused
+[2017-04-10 22:13:27] [Error] System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 Shadowsocks.Obfs.ObfsFactory.GetObfs(String method)
+   在 Shadowsocks.Controller.Handler.BeginConnect(IPAddress ipAddress, Int32 serverPort)
+   在 Shadowsocks.Controller.Handler.Connect()
+   在 Shadowsocks.Controller.Handler.Start(Byte[] firstPacket, Int32 length, String rsp_protocol)
+   在 Shadowsocks.Controller.Handler.ReConnect()
+   在 Shadowsocks.Controller.Handler.Close()
+[2017-04-10 22:17:17] ShadowsocksR started on port 2046
+[2017-04-10 22:22:19] ShadowsocksR started on port 2046
+[2017-04-10 22:30:29] ShadowsocksR started on port 2046
+[2017-04-10 22:30:40] [Error] connect to update server error
+[2017-04-10 22:33:28] [Error] System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 Shadowsocks.Obfs.ObfsFactory.GetObfs(String method)
+   在 Shadowsocks.Controller.Handler.BeginConnect(IPAddress ipAddress, Int32 serverPort)
+   在 Shadowsocks.Controller.Handler.Connect()
+   在 Shadowsocks.Controller.Handler.Start(Byte[] firstPacket, Int32 length, String rsp_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive3Callback(Int32 recv_size)
+[2017-04-10 22:33:33] [Error] System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 Shadowsocks.Obfs.ObfsFactory.GetObfs(String method)
+   在 Shadowsocks.Controller.Handler.BeginConnect(IPAddress ipAddress, Int32 serverPort)
+   在 Shadowsocks.Controller.Handler.Connect()
+   在 Shadowsocks.Controller.Handler.Start(Byte[] firstPacket, Int32 length, String rsp_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive3Callback(Int32 recv_size)
+[2017-04-10 22:33:34] [Error] System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 Shadowsocks.Obfs.ObfsFactory.GetObfs(String method)
+   在 Shadowsocks.Controller.Handler.BeginConnect(IPAddress ipAddress, Int32 serverPort)
+   在 Shadowsocks.Controller.Handler.Connect()
+   在 Shadowsocks.Controller.Handler.Start(Byte[] firstPacket, Int32 length, String rsp_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive3Callback(Int32 recv_size)
+[2017-04-10 22:33:59] [Error] System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 Shadowsocks.Obfs.ObfsFactory.GetObfs(String method)
+   在 Shadowsocks.Controller.Handler.BeginConnect(IPAddress ipAddress, Int32 serverPort)
+   在 Shadowsocks.Controller.Handler.Connect()
+   在 Shadowsocks.Controller.Handler.Start(Byte[] firstPacket, Int32 length, String rsp_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive3Callback(Int32 recv_size)
+[2017-04-10 22:34:00] [Error] System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 Shadowsocks.Obfs.ObfsFactory.GetObfs(String method)
+   在 Shadowsocks.Controller.Handler.BeginConnect(IPAddress ipAddress, Int32 serverPort)
+   在 Shadowsocks.Controller.Handler.Connect()
+   在 Shadowsocks.Controller.Handler.Start(Byte[] firstPacket, Int32 length, String rsp_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive3Callback(Int32 recv_size)
+[2017-04-10 22:34:00] [Error] System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 Shadowsocks.Obfs.ObfsFactory.GetObfs(String method)
+   在 Shadowsocks.Controller.Handler.BeginConnect(IPAddress ipAddress, Int32 serverPort)
+   在 Shadowsocks.Controller.Handler.Connect()
+   在 Shadowsocks.Controller.Handler.Start(Byte[] firstPacket, Int32 length, String rsp_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive3Callback(Int32 recv_size)
+[2017-04-10 22:34:00] [Error] System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 Shadowsocks.Obfs.ObfsFactory.GetObfs(String method)
+   在 Shadowsocks.Controller.Handler.BeginConnect(IPAddress ipAddress, Int32 serverPort)
+   在 Shadowsocks.Controller.Handler.Connect()
+   在 Shadowsocks.Controller.Handler.Start(Byte[] firstPacket, Int32 length, String rsp_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive3Callback(Int32 recv_size)
+[2017-04-10 22:34:00] [Error] System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 Shadowsocks.Obfs.ObfsFactory.GetObfs(String method)
+   在 Shadowsocks.Controller.Handler.BeginConnect(IPAddress ipAddress, Int32 serverPort)
+   在 Shadowsocks.Controller.Handler.Connect()
+   在 Shadowsocks.Controller.Handler.Start(Byte[] firstPacket, Int32 length, String rsp_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive3Callback(Int32 recv_size)
+[2017-04-10 22:34:01] [Error] System.Collections.Generic.KeyNotFoundException: 给定关键字不在字典中。
+   在 System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   在 Shadowsocks.Obfs.ObfsFactory.GetObfs(String method)
+   在 Shadowsocks.Controller.Handler.BeginConnect(IPAddress ipAddress, Int32 serverPort)
+   在 Shadowsocks.Controller.Handler.Connect()
+   在 Shadowsocks.Controller.Handler.Start(Byte[] firstPacket, Int32 length, String rsp_protocol)
+   在 Shadowsocks.Controller.ProxyAuthHandler.Connect()
+   在 Shadowsocks.Controller.ProxyAuthHandler.HandshakeReceive3Callback(Int32 recv_size)
+[2017-04-10 22:36:25] ShadowsocksR started on port 2046
