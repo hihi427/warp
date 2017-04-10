@@ -24,8 +24,13 @@
 		"totalDownloadBytes" : 0
 	},
 	"209.141.58.145" : {
+<<<<<<< HEAD
 		"totalUploadBytes" : 7219169,
 		"totalDownloadBytes" : 237665175
+=======
+		"totalUploadBytes" : 7232309,
+		"totalDownloadBytes" : 239952407
+>>>>>>> origin/master
 	},
 	"us3.ss.bydisk.com" : {
 		"totalUploadBytes" : 0,
