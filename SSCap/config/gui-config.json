@@ -3,9 +3,9 @@
    "autoban" : false,
    "configs" : [
       {
-         "ConnectedTimes" : 3,
+         "ConnectedTimes" : 5,
          "Download_traffic" : 0.0,
-         "FailureTimes" : 2,
+         "FailureTimes" : 4,
          "Latency" : 0,
          "Upload_traffic" : 0.0,
          "charge_type" : 0,
@@ -17,11 +17,11 @@
          "server_port" : 3000
       },
       {
-         "ConnectedTimes" : 22,
-         "Download_traffic" : 128670.0,
+         "ConnectedTimes" : 24,
+         "Download_traffic" : 130576.0,
          "FailureTimes" : 0,
          "Latency" : 0,
-         "Upload_traffic" : 16902.0,
+         "Upload_traffic" : 17658.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -31,11 +31,11 @@
          "server_port" : 31687
       },
       {
-         "ConnectedTimes" : 123,
-         "Download_traffic" : 13918066.0,
+         "ConnectedTimes" : 218,
+         "Download_traffic" : 27437344.0,
          "FailureTimes" : 0,
-         "Latency" : 156,
-         "Upload_traffic" : 235978.0,
+         "Latency" : 0,
+         "Upload_traffic" : 492589.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -45,18 +45,18 @@
          "server_port" : 31448
       },
       {
-         "ConnectedTimes" : 2,
-         "Download_traffic" : 1904.0,
-         "FailureTimes" : 0,
+         "ConnectedTimes" : 4,
+         "Download_traffic" : 2857.0,
+         "FailureTimes" : 1,
          "Latency" : 0,
-         "Upload_traffic" : 756.0,
+         "Upload_traffic" : 1134.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
          "password" : "ji9li7..",
          "remarks" : "",
-         "server" : "seaof-59-106-238-243.jp-tokyo-07.arukascloud.io",
-         "server_port" : 31552
+         "server" : "seaof-59-106-238-240.jp-tokyo-07.arukascloud.io",
+         "server_port" : 31808
       }
    ],
    "enable" : false,

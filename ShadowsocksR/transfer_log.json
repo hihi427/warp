@@ -8,8 +8,8 @@
 		"totalDownloadBytes" : 2317
 	},
 	"209.141.58.145" : {
-		"totalUploadBytes" : 45708,
-		"totalDownloadBytes" : 395591
+		"totalUploadBytes" : 47604,
+		"totalDownloadBytes" : 405505
 	},
 	"153.125.234.178" : {
 		"totalUploadBytes" : 4042,
@@ -26,5 +26,9 @@
 	"seaof-153-125-239-178.jp-tokyo-26.arukascloud.io" : {
 		"totalUploadBytes" : 15983,
 		"totalDownloadBytes" : 32768
+	},
+	"seaof-153-125-235-204.jp-tokyo-15.arukascloud.io" : {
+		"totalUploadBytes" : 15012,
+		"totalDownloadBytes" : 1377682
 	}
 }
