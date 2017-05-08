@@ -127,7 +127,7 @@ baihe.com
 baixing.com
 bdimg.com
 bdstatic.com
-bilibili.tv
+bilibili.com
 blogbus.com
 blueidea.com
 ccb.com
@@ -430,3 +430,4 @@ zhimg.com
 zhubajie.com
 zongheng.com
 hi-pda.com
+search.1-3.org
