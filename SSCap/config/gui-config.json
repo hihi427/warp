@@ -3,9 +3,9 @@
    "autoban" : false,
    "configs" : [
       {
-         "ConnectedTimes" : 5,
+         "ConnectedTimes" : 2,
          "Download_traffic" : 0.0,
-         "FailureTimes" : 4,
+         "FailureTimes" : 2,
          "Latency" : 0,
          "Upload_traffic" : 0.0,
          "charge_type" : 0,
@@ -17,11 +17,11 @@
          "server_port" : 3000
       },
       {
-         "ConnectedTimes" : 24,
-         "Download_traffic" : 130576.0,
+         "ConnectedTimes" : 2,
+         "Download_traffic" : 1906.0,
          "FailureTimes" : 0,
-         "Latency" : 0,
-         "Upload_traffic" : 17658.0,
+         "Latency" : 281,
+         "Upload_traffic" : 756.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -31,11 +31,11 @@
          "server_port" : 31687
       },
       {
-         "ConnectedTimes" : 218,
-         "Download_traffic" : 27437344.0,
+         "ConnectedTimes" : 475,
+         "Download_traffic" : 12838769.0,
          "FailureTimes" : 0,
-         "Latency" : 0,
-         "Upload_traffic" : 492589.0,
+         "Latency" : 219,
+         "Upload_traffic" : 1368717.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -45,18 +45,32 @@
          "server_port" : 31448
       },
       {
-         "ConnectedTimes" : 4,
-         "Download_traffic" : 2857.0,
-         "FailureTimes" : 1,
-         "Latency" : 0,
-         "Upload_traffic" : 1134.0,
+         "ConnectedTimes" : 7,
+         "Download_traffic" : 79725.0,
+         "FailureTimes" : 0,
+         "Latency" : 406,
+         "Upload_traffic" : 19759.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
-         "password" : "ji9li7..",
+         "password" : "password",
          "remarks" : "",
-         "server" : "seaof-59-106-238-240.jp-tokyo-07.arukascloud.io",
-         "server_port" : 31808
+         "server" : "ss1.ubox.co",
+         "server_port" : 8388
+      },
+      {
+         "ConnectedTimes" : 3,
+         "Download_traffic" : 1945.0,
+         "FailureTimes" : 0,
+         "Latency" : 530,
+         "Upload_traffic" : 756.0,
+         "charge_type" : 0,
+         "enable" : true,
+         "method" : "aes-256-cfb",
+         "password" : "password",
+         "remarks" : "",
+         "server" : "ss6.ubox.co",
+         "server_port" : 8388
       }
    ],
    "enable" : false,
