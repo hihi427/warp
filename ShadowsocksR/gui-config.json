@@ -52,10 +52,27 @@
 			"udp_over_tcp" : false
 		},
 		{
+			"remarks" : "Kcptun",
+			"id" : "CBB0411EC64B9A2A2623CC9EE0A21F63",
+			"server" : "127.0.0.1",
+			"server_port" : 7788,
+			"server_udp_port" : 0,
+			"password" : "ji9li7..",
+			"method" : "aes-256-cfb",
+			"protocol" : "origin",
+			"protocolparam" : "",
+			"obfs" : "plain",
+			"obfsparam" : "",
+			"remarks_base64" : "S2NwdHVu",
+			"group" : "Kcptun",
+			"enable" : true,
+			"udp_over_tcp" : false
+		},
+		{
 			"remarks" : "app.arukas.io",
-			"id" : "9EF62D38A7D2B5FA11CD1A7448E0780A",
-			"server" : "eaof-59-106-238-240.jp-tokyo-07.arukascloud.io",
-			"server_port" : 31808,
+			"id" : "60315E2779369287108ABDEA5598E33C",
+			"server" : "seaof-153-125-235-143.jp-tokyo-13.arukascloud.io",
+			"server_port" : 31518,
 			"server_udp_port" : 0,
 			"password" : "ji9li7..",
 			"method" : "aes-256-cfb",
@@ -69,7 +86,7 @@
 			"udp_over_tcp" : false
 		}
 	],
-	"index" : 2,
+	"index" : 3,
 	"random" : false,
 	"sysProxyMode" : 0,
 	"shareOverLan" : false,

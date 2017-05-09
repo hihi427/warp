@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="gbk"?>
+<paras author="badcat">
+	<programpara>
+		<autostart>0</autostart>
+		<minimize>0</minimize>
+		<clientexedir>client_windows_amd64.exe</clientexedir>
+		<autoconn enable="0">5</autoconn>
+	</programpara>
+	<clientnodes>
+		<node id="{67B81306-2B7B-4761-ACB1-399CC71A137A}" runstate="1" remark="">
+			<json enable="0"></json>
+			<localport allowonlylocal="0">7788</localport>
+			<kcpserverip>seaof-153-125-235-141.jp-tokyo-13.arukascloud.io</kcpserverip>
+			<kcpserverport>31811</kcpserverport>
+			<key enable="1">ji9li7..</key>
+			<crypt enable="1">aes-192</crypt>
+			<nocomp enable="0"/>
+			<datashard enable="0"></datashard>
+			<parityshard enable="0"></parityshard>
+			<conn enable="0"></conn>
+			<mtu enable="0"></mtu>
+			<sndwnd enable="0"></sndwnd>
+			<rcvwnd enable="0"></rcvwnd>
+			<dscp enable="0"></dscp>
+			<autoexpire enable="0"></autoexpire>
+			<mode enable="1">fast</mode>
+			<nodelay enable="0"/>
+			<interval enable="0"></interval>
+			<resend enable="0"></resend>
+			<nc enable="0"/>
+			<acknodelay enable="0"/>
+			<keepalive enable="0"></keepalive>
+			<sockbuf enable="0"></sockbuf>
+		</node>
+	</clientnodes>
+</paras>

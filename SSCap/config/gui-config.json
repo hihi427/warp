@@ -3,9 +3,9 @@
    "autoban" : false,
    "configs" : [
       {
-         "ConnectedTimes" : 2,
+         "ConnectedTimes" : 0,
          "Download_traffic" : 0.0,
-         "FailureTimes" : 2,
+         "FailureTimes" : 0,
          "Latency" : 0,
          "Upload_traffic" : 0.0,
          "charge_type" : 0,
@@ -17,11 +17,11 @@
          "server_port" : 3000
       },
       {
-         "ConnectedTimes" : 2,
-         "Download_traffic" : 1906.0,
+         "ConnectedTimes" : 0,
+         "Download_traffic" : 1215525.0,
          "FailureTimes" : 0,
          "Latency" : 0,
-         "Upload_traffic" : 756.0,
+         "Upload_traffic" : 504.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -31,11 +31,11 @@
          "server_port" : 31687
       },
       {
-         "ConnectedTimes" : 504,
-         "Download_traffic" : 12926291.0,
+         "ConnectedTimes" : 0,
+         "Download_traffic" : 0.0,
          "FailureTimes" : 0,
-         "Latency" : 219,
-         "Upload_traffic" : 1395165.0,
+         "Latency" : 0,
+         "Upload_traffic" : 0.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -45,11 +45,11 @@
          "server_port" : 31448
       },
       {
-         "ConnectedTimes" : 7,
-         "Download_traffic" : 79945.0,
+         "ConnectedTimes" : 0,
+         "Download_traffic" : 0.0,
          "FailureTimes" : 0,
          "Latency" : 0,
-         "Upload_traffic" : 19759.0,
+         "Upload_traffic" : 0.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -59,11 +59,11 @@
          "server_port" : 8388
       },
       {
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 1945.0,
+         "ConnectedTimes" : 0,
+         "Download_traffic" : 0.0,
          "FailureTimes" : 0,
          "Latency" : 0,
-         "Upload_traffic" : 756.0,
+         "Upload_traffic" : 0.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -71,11 +71,39 @@
          "remarks" : "",
          "server" : "ss6.ubox.co",
          "server_port" : 8388
+      },
+      {
+         "ConnectedTimes" : 2,
+         "Download_traffic" : 6513.0,
+         "FailureTimes" : 0,
+         "Latency" : 1,
+         "Upload_traffic" : 3023.0,
+         "charge_type" : 0,
+         "enable" : true,
+         "method" : "aes-256-cfb",
+         "password" : "ji9li7..",
+         "remarks" : "",
+         "server" : "127.0.0.1",
+         "server_port" : 7788
+      },
+      {
+         "ConnectedTimes" : 1,
+         "Download_traffic" : 953.0,
+         "FailureTimes" : 0,
+         "Latency" : 124,
+         "Upload_traffic" : 378.0,
+         "charge_type" : 0,
+         "enable" : true,
+         "method" : "aes-256-cfb",
+         "password" : "ji9li7..",
+         "remarks" : "",
+         "server" : "seaof-153-125-235-143.jp-tokyo-13.arukascloud.io",
+         "server_port" : 31518
       }
    ],
    "enable" : false,
    "global" : true,
-   "idInUse" : 2,
+   "idInUse" : 5,
    "index" : 0,
    "localPort" : 2046,
    "localSocksPass" : "",
