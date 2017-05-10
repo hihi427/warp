@@ -31,6 +31,30 @@
 			<acknodelay enable="0"/>
 			<keepalive enable="0"></keepalive>
 			<sockbuf enable="0"></sockbuf>
+		</node>	<node id="{839E7D6F-982E-47B7-B431-E3502587DC34}" runstate="1" remark="">
+			<json enable="0"></json>
+			<localport allowonlylocal="0">8904</localport>
+			<kcpserverip>seaof-59-106-238-243.jp-tokyo-07.arukascloud.io</kcpserverip>
+			<kcpserverport>31319</kcpserverport>
+			<key enable="1">ji9li7..</key>
+			<crypt enable="1">aes-192</crypt>
+			<nocomp enable="0"/>
+			<datashard enable="0"></datashard>
+			<parityshard enable="0"></parityshard>
+			<conn enable="0"></conn>
+			<mtu enable="0"></mtu>
+			<sndwnd enable="0"></sndwnd>
+			<rcvwnd enable="0"></rcvwnd>
+			<dscp enable="0"></dscp>
+			<autoexpire enable="0"></autoexpire>
+			<mode enable="1">fast</mode>
+			<nodelay enable="0"/>
+			<interval enable="0"></interval>
+			<resend enable="0"></resend>
+			<nc enable="0"/>
+			<acknodelay enable="0"/>
+			<keepalive enable="0"></keepalive>
+			<sockbuf enable="0"></sockbuf>
 		</node>
 	</clientnodes>
 </paras>
