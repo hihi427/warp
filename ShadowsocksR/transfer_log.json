@@ -32,8 +32,8 @@
 		"totalDownloadBytes" : 2656967
 	},
 	"127.0.0.1" : {
-		"totalUploadBytes" : 5630983,
-		"totalDownloadBytes" : 230671241
+		"totalUploadBytes" : 5643131,
+		"totalDownloadBytes" : 230677978
 	},
 	"seaof-153-125-235-143.jp-tokyo-13.arukascloud.io" : {
 		"totalUploadBytes" : 476791,
@@ -42,5 +42,9 @@
 	"seaof-153-125-235-141.jp-tokyo-13.arukascloud.io" : {
 		"totalUploadBytes" : 63978,
 		"totalDownloadBytes" : 649594
+	},
+	"seaof-153-125-239-211.jp-tokyo-27.arukascloud.io" : {
+		"totalUploadBytes" : 20918,
+		"totalDownloadBytes" : 149867
 	}
 }
