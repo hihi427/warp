@@ -1,0 +1,133 @@
+2017/05/10 17:09:57 listen http 127.0.0.1:4411, PAC url http://127.0.0.1:4411/pac
+[>>>>>] 2017/05/10 17:09:57 PROXY 127.0.0.1:2225 CONNECT mtalk.google.com:5228
+[>>>>>] 2017/05/10 17:10:00 PROXY 127.0.0.1:2228 CONNECT www.google.com:443
+[>>>>>] 2017/05/10 17:10:02 PROXY 127.0.0.1:2231 CONNECT ogs.google.com:443
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2234 GET www.cnbeta.com:80/
+[<<<<<] 2017/05/10 17:10:06 GET www.cnbeta.com:80/ 200 OK
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2236 GET www.cnbeta.com:80/js/cb.js?v=201705
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2238 GET static.cnbetacdn.com:80/frontend/201704/de3237018024054_285x360.png
+[<<<<<] 2017/05/10 17:10:06 GET www.cnbeta.com:80/js/cb.js?v=201705 304 Not Modified
+[<<<<<] 2017/05/10 17:10:06 GET static.cnbetacdn.com:80/frontend/201704/de3237018024054_285x360.png 304 Not Modified
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2238 GET static.cnbetacdn.com:80/frontend/201705/589991de1e303a3_285x360.jpg
+[<<<<<] 2017/05/10 17:10:06 GET static.cnbetacdn.com:80/frontend/201705/589991de1e303a3_285x360.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2236 GET www.cnbeta.com:80/poll/index?format=js&t=20170510
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2238 GET static.cnbetacdn.com:80/frontend/201705/df4feaf80ea9259_285x360.jpg
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2242 GET static.cnbetacdn.com:80/frontend/autoimg/homehot/201705/02d7a958a914aaa_295x175.jpg
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2243 GET static.cnbetacdn.com:80/frontend/autoimg/homehot/201705/67168ede09c48ea_295x175.jpg
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2247 GET static.cnbetacdn.com:80/frontend/autoimg/homehot/201705/76553e03ce89ac4_295x175.jpg
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2249 GET static.cnbetacdn.com:80/frontend/autoimg/homehot/201705/dba5a74da47c6a2_295x175.jpg
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2250 GET static.cnbetacdn.com:80/frontend/autoimg/homehot/201705/f645be310a7f8f5_295x175.jpg
+[<<<<<] 2017/05/10 17:10:06 GET static.cnbetacdn.com:80/frontend/autoimg/homehot/201705/02d7a958a914aaa_295x175.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2242 GET static.cnbetacdn.com:80/frontend/autoimg/homehot/201705/506bab76e9f1475_295x175.jpg
+[<<<<<] 2017/05/10 17:10:06 GET www.cnbeta.com:80/poll/index?format=js&t=20170510 200 OK
+[<<<<<] 2017/05/10 17:10:06 GET static.cnbetacdn.com:80/frontend/autoimg/homehot/201705/67168ede09c48ea_295x175.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:06 GET static.cnbetacdn.com:80/frontend/autoimg/homehot/201705/dba5a74da47c6a2_295x175.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2243 GET static.cnbetacdn.com:80/frontend/201705/b42da659477d05c_292x177.jpg
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2249 GET static.cnbetacdn.com:80/frontend/201705/8aa44b23096c33d_292x177.jpg
+[<<<<<] 2017/05/10 17:10:06 GET static.cnbetacdn.com:80/frontend/autoimg/homehot/201705/76553e03ce89ac4_295x175.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:06 GET static.cnbetacdn.com:80/frontend/201705/df4feaf80ea9259_285x360.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2247 GET static.cnbetacdn.com:80/frontend/201705/95167a8fd0df90d_292x177.jpg
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2238 GET static.cnbetacdn.com:80/frontend/201705/ef4b9585fbc3b15_292x177.png
+[<<<<<] 2017/05/10 17:10:06 GET static.cnbetacdn.com:80/frontend/autoimg/homehot/201705/f645be310a7f8f5_295x175.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2250 GET static.cnbetacdn.com:80/frontend/201705/1db605663354b7c_292x177.jpg
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2236 GET www.cnbeta.com:80/js/pages/common.js?v=201705
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2234 GET www.cnbeta.com:80/js/util_libs/jquery.lazyload.js?v=201705
+[<<<<<] 2017/05/10 17:10:06 GET static.cnbetacdn.com:80/frontend/autoimg/homehot/201705/506bab76e9f1475_295x175.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2242 GET static.cnbetacdn.com:80/frontend/201705/fa649b727909aa3_292x177.jpg
+[<<<<<] 2017/05/10 17:10:06 GET static.cnbetacdn.com:80/frontend/201705/8aa44b23096c33d_292x177.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2249 GET static.cnbetacdn.com:80/frontend/201705/fd6ea7cc7045b06_292x177.jpg
+[<<<<<] 2017/05/10 17:10:06 GET static.cnbetacdn.com:80/frontend/201705/95167a8fd0df90d_292x177.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:06 GET static.cnbetacdn.com:80/frontend/201705/ef4b9585fbc3b15_292x177.png 304 Not Modified
+[>>>>>] 2017/05/10 17:10:06 DIRECT 127.0.0.1:2247 GET static.cnbetacdn.com:80/frontend/201705/eeb4e1865154c1d_292x177.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/frontend/201705/b42da659477d05c_292x177.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2238 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/d9e069fccefb053.jpg
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2243 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/cf404753fc21b95.png
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/frontend/201705/1db605663354b7c_292x177.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2250 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/de41efeb0805b09.jpg
+[<<<<<] 2017/05/10 17:10:07 GET www.cnbeta.com:80/js/util_libs/jquery.lazyload.js?v=201705 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET www.cnbeta.com:80/js/pages/common.js?v=201705 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/frontend/201705/fa649b727909aa3_292x177.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2242 GET static.cnbetacdn.com:80/article/2017/0510/0a4d6115b82361c.png
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/frontend/201705/fd6ea7cc7045b06_292x177.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2249 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/52dfd218533d119.jpeg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/frontend/201705/eeb4e1865154c1d_292x177.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2247 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/19c3765f13cb8d9.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/d9e069fccefb053.jpg 200 OK
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/cf404753fc21b95.png 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2238 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/fbb953212d27db4.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/de41efeb0805b09.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2250 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/1884680a44e483c.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/52dfd218533d119.jpeg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/52f397a17e082ae.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2243 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/e422b79badd5c74.jpg
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2249 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/54f8e443a1eeaaa.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/article/2017/0510/0a4d6115b82361c.png 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2242 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/75ef9ea8160ba96.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/19c3765f13cb8d9.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2247 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/208a30f9587d3dc.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/fbb953212d27db4.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2238 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/ca6a74f408d51c7.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/1884680a44e483c.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2250 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/bd30be45a0e0a15.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/e422b79badd5c74.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2243 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/6edfbf19b9be0e2.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/54f8e443a1eeaaa.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/75ef9ea8160ba96.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2242 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/6dea281a032a4d6.jpg
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2249 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/e65bda01e12250c.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/208a30f9587d3dc.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2247 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/52a85990e26eacc.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/ca6a74f408d51c7.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/bd30be45a0e0a15.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2250 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/2d0e62e34f4d64e.jpg
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2238 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/3f43eced8e69330.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/6edfbf19b9be0e2.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/6dea281a032a4d6.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/e65bda01e12250c.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2249 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/c15fe21ce88e569.png
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2242 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/d54da1e8b56ce13.jpg
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2243 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/5d030fd2f15451e.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/52a85990e26eacc.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2247 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/b79f8071be964bc.png
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/3f43eced8e69330.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2238 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/954dbddd0133f19.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/2d0e62e34f4d64e.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2250 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/182c20648c0bb60.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/d54da1e8b56ce13.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2242 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/5d4072381f8fa1a.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/c15fe21ce88e569.png 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/5d030fd2f15451e.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2243 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/0677878b8754f92.png
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2249 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/0a0269b6e3dc26f.png
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/b79f8071be964bc.png 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2247 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/9d2d912cd8e6704.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/182c20648c0bb60.jpg 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2250 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/085aa58f434a43b.jpg
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/954dbddd0133f19.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/0677878b8754f92.png 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/5d4072381f8fa1a.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/0a0269b6e3dc26f.png 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2242 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/e0fdc35a116ff0a.jpg
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2249 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0504/7a838e01c34f6d5.jpg
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2243 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0509/34f739b83295779.png
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2238 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0507/0f9a175bec047b4.png
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/9d2d912cd8e6704.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/085aa58f434a43b.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0510/e0fdc35a116ff0a.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0504/7a838e01c34f6d5.jpg 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0509/34f739b83295779.png 304 Not Modified
+[<<<<<] 2017/05/10 17:10:07 GET static.cnbetacdn.com:80/thumb/mini/article/2017/0507/0f9a175bec047b4.png 304 Not Modified
+[>>>>>] 2017/05/10 17:10:07 DIRECT 127.0.0.1:2236 GET www.cnbeta.com:80/favicon.ico
+[<<<<<] 2017/05/10 17:10:07 GET www.cnbeta.com:80/favicon.ico 200 OK
+[>>>>>] 2017/05/10 17:10:08 PROXY 127.0.0.1:2300 CONNECT notifications.google.com:443
+[>>>>>] 2017/05/10 17:10:27 DIRECT 127.0.0.1:2303 CONNECT www.chiphell.com:443
+[>>>>>] 2017/05/10 17:10:39 PROXY 127.0.0.1:2305 CONNECT clients4.google.com:443
+2017/05/10 17:10:52 listen http 127.0.0.1:4411, PAC url http://127.0.0.1:4411/pac
+[>>>>>] 2017/05/10 17:10:52 PROXY 127.0.0.1:2311 CONNECT mtalk.google.com:5228
+[>>>>>] 2017/05/10 17:10:52 DIRECT 127.0.0.1:2314 CONNECT www.chiphell.com:443
+[>>>>>] 2017/05/10 17:10:52 DIRECT 127.0.0.1:2315 CONNECT www.chiphell.com:443
+[>>>>>] 2017/05/10 17:10:52 DIRECT 127.0.0.1:2316 CONNECT www.chiphell.com:443
+[>>>>>] 2017/05/10 17:10:57 PROXY 127.0.0.1:2320 CONNECT www.google.com:443
+[>>>>>] 2017/05/10 17:10:57 PROXY 127.0.0.1:2323 CONNECT www.google.com:443
+[>>>>>] 2017/05/10 17:10:59 PROXY 127.0.0.1:2326 CONNECT ogs.google.com:443
+[>>>>>] 2017/05/10 17:11:04 PROXY 127.0.0.1:2329 CONNECT notifications.google.com:443

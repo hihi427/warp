@@ -19,3 +19,5 @@ listen = http://127.0.0.1:4411
 #     chacha20, salsa20, rc4, table
 
 
+#logFile=log.txt
+judgeByIP = true

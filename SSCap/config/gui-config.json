@@ -59,11 +59,11 @@
          "server_port" : 8388
       },
       {
-         "ConnectedTimes" : 17,
-         "Download_traffic" : 25133.0,
+         "ConnectedTimes" : 512,
+         "Download_traffic" : 22474622.0,
          "FailureTimes" : 0,
          "Latency" : 1,
-         "Upload_traffic" : 16509.0,
+         "Upload_traffic" : 1961247.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -131,7 +131,7 @@
    ],
    "enable" : false,
    "global" : true,
-   "idInUse" : 4,
+   "idInUse" : 6,
    "index" : 0,
    "localPort" : 2046,
    "localSocksPass" : "",
