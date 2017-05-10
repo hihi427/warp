@@ -3,11 +3,11 @@
    "autoban" : false,
    "configs" : [
       {
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 2859.0,
+         "ConnectedTimes" : 5,
+         "Download_traffic" : 3901.0,
          "FailureTimes" : 0,
-         "Latency" : 280,
-         "Upload_traffic" : 1134.0,
+         "Latency" : 312,
+         "Upload_traffic" : 1886.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -17,11 +17,11 @@
          "server_port" : 31687
       },
       {
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 2859.0,
+         "ConnectedTimes" : 5,
+         "Download_traffic" : 3901.0,
          "FailureTimes" : 0,
-         "Latency" : 312,
-         "Upload_traffic" : 1134.0,
+         "Latency" : 203,
+         "Upload_traffic" : 1886.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -31,11 +31,11 @@
          "server_port" : 31448
       },
       {
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 2913.0,
+         "ConnectedTimes" : 5,
+         "Download_traffic" : 4689.0,
          "FailureTimes" : 0,
-         "Latency" : 437,
-         "Upload_traffic" : 1134.0,
+         "Latency" : 405,
+         "Upload_traffic" : 1886.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -45,11 +45,11 @@
          "server_port" : 8388
       },
       {
-         "ConnectedTimes" : 13,
-         "Download_traffic" : 14548.0,
+         "ConnectedTimes" : 15,
+         "Download_traffic" : 16324.0,
          "FailureTimes" : 0,
-         "Latency" : 328,
-         "Upload_traffic" : 27562.0,
+         "Latency" : 421,
+         "Upload_traffic" : 28314.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -59,11 +59,11 @@
          "server_port" : 8388
       },
       {
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 2859.0,
+         "ConnectedTimes" : 17,
+         "Download_traffic" : 25133.0,
          "FailureTimes" : 0,
          "Latency" : 1,
-         "Upload_traffic" : 1134.0,
+         "Upload_traffic" : 16509.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -73,11 +73,11 @@
          "server_port" : 7788
       },
       {
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 2859.0,
+         "ConnectedTimes" : 7,
+         "Download_traffic" : 5197.0,
          "FailureTimes" : 0,
-         "Latency" : 234,
-         "Upload_traffic" : 1134.0,
+         "Latency" : 218,
+         "Upload_traffic" : 13394.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -87,11 +87,11 @@
          "server_port" : 31518
       },
       {
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 2859.0,
+         "ConnectedTimes" : 5,
+         "Download_traffic" : 3905.0,
          "FailureTimes" : 0,
          "Latency" : 1,
-         "Upload_traffic" : 1134.0,
+         "Upload_traffic" : 1886.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -101,11 +101,11 @@
          "server_port" : 8904
       },
       {
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 2859.0,
+         "ConnectedTimes" : 5,
+         "Download_traffic" : 3897.0,
          "FailureTimes" : 0,
          "Latency" : 250,
-         "Upload_traffic" : 1134.0,
+         "Upload_traffic" : 1886.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -115,11 +115,11 @@
          "server_port" : 31809
       },
       {
-         "ConnectedTimes" : 3,
-         "Download_traffic" : 2859.0,
+         "ConnectedTimes" : 5,
+         "Download_traffic" : 3905.0,
          "FailureTimes" : 0,
-         "Latency" : 281,
-         "Upload_traffic" : 1134.0,
+         "Latency" : 296,
+         "Upload_traffic" : 1886.0,
          "charge_type" : 0,
          "enable" : true,
          "method" : "aes-256-cfb",
@@ -131,7 +131,7 @@
    ],
    "enable" : false,
    "global" : true,
-   "idInUse" : 5,
+   "idInUse" : 4,
    "index" : 0,
    "localPort" : 2046,
    "localSocksPass" : "",
@@ -144,6 +144,6 @@
    "shareOverLan" : false,
    "startInSystray" : true,
    "strHotKey" : "",
-   "testing_url" : "http://global.bing.com",
+   "testing_url" : "http://www.google.com",
    "useOnlinePac" : false
 }
