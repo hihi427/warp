@@ -10,8 +10,8 @@
 		<node id="{67B81306-2B7B-4761-ACB1-399CC71A137A}" runstate="1" remark="">
 			<json enable="0"></json>
 			<localport allowonlylocal="0">7788</localport>
-			<kcpserverip>seaof-153-125-235-141.jp-tokyo-13.arukascloud.io</kcpserverip>
-			<kcpserverport>31811</kcpserverport>
+			<kcpserverip>seaof-153-125-234-241.jp-tokyo-12.arukascloud.io</kcpserverip>
+			<kcpserverport>31040</kcpserverport>
 			<key enable="1">ji9li7..</key>
 			<crypt enable="1">aes-192</crypt>
 			<nocomp enable="0"/>

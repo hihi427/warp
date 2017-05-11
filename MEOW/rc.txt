@@ -8,8 +8,8 @@ listen = http://127.0.0.1:4411
 #############################
 # 例子：
 # SOCKS5:
-  proxy = socks5://127.0.0.1:2046
-# proxy = https://ccf1.arukascloud.io:443
+ proxy = socks5://127.0.0.1:2046
+# proxy = https://ccf3.arukascloud.io:443
 #   proxy = http://user:password@127.0.0.1:8080
 # shadowsocks:
 #   proxy = ss://encrypt_method:password@1.2.3.4:8388

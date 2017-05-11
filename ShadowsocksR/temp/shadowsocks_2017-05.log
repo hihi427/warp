@@ -27,3 +27,46 @@
 [2017-05-10 14:57:24] ShadowsocksR started on port 2046
 [2017-05-10 15:14:17] ShadowsocksR started on port 2046
 [2017-05-10 20:15:59] ShadowsocksR started on port 2046
+[2017-05-11 21:57:16] ShadowsocksR started on port 2046
+[2017-05-12 00:01:47] ShadowsocksR started on port 2046
+[2017-05-12 00:01:50] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:01:52] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:01:53] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:01:57] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:01:59] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:00] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:01] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:01] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:02] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:03] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:03] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:04] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:05] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:05] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:05] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:06] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:07] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:07] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:07] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:08] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:08] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:08] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:09] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:11] [Warn] Proxy server [Kcptun(127.0.0.1)] connection refused
+[2017-05-12 00:02:11] [Error] connect to update server error
+[2017-05-12 00:02:17] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:18] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:19] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:20] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:20] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:21] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:21] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:22] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:22] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:24] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:24] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:24] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:25] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:25] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:25] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
+[2017-05-12 00:02:26] [Warn] Proxy server [app.arukas.io(seaof-153-125-235-141.jp-tokyo-13.arukascloud.io)] connection refused
