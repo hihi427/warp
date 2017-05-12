@@ -54,8 +54,8 @@
 		{
 			"remarks" : "app.arukas.io",
 			"id" : "3FC3E0E7B4051F0B343EF7A5F686B0A0",
-			"server" : "seaof-153-125-235-143.jp-tokyo-13.arukascloud.io",
-			"server_port" : 31518,
+			"server" : "seaof-153-125-235-145.jp-tokyo-13.arukascloud.io",
+			"server_port" : 31196,
 			"server_udp_port" : 0,
 			"password" : "ji9li7..",
 			"method" : "aes-256-cfb",
@@ -137,7 +137,7 @@
 			"udp_over_tcp" : false
 		}
 	],
-	"index" : 6,
+	"index" : 4,
 	"random" : false,
 	"sysProxyMode" : 0,
 	"shareOverLan" : false,
