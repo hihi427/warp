@@ -10,8 +10,8 @@
 		<node id="{67B81306-2B7B-4761-ACB1-399CC71A137A}" runstate="1" remark="">
 			<json enable="0"></json>
 			<localport allowonlylocal="0">7788</localport>
-			<kcpserverip>seaof-153-125-234-241.jp-tokyo-12.arukascloud.io</kcpserverip>
-			<kcpserverport>31040</kcpserverport>
+			<kcpserverip>seaof-153-125-234-242.jp-tokyo-12.arukascloud.io</kcpserverip>
+			<kcpserverport>31679</kcpserverport>
 			<key enable="1">ji9li7..</key>
 			<crypt enable="1">aes-192</crypt>
 			<nocomp enable="0"/>
@@ -35,8 +35,8 @@
 		<node id="{839E7D6F-982E-47B7-B431-E3502587DC34}" runstate="1" remark="">
 			<json enable="0"></json>
 			<localport allowonlylocal="0">8904</localport>
-			<kcpserverip>seaof-153-125-239-211.jp-tokyo-27.arukascloud.io</kcpserverip>
-			<kcpserverport>31171</kcpserverport>
+			<kcpserverip>seaof-153-125-239-209.jp-tokyo-27.arukascloud.io</kcpserverip>
+			<kcpserverport>31308</kcpserverport>
 			<key enable="1">ji9li7..</key>
 			<crypt enable="1">aes-192</crypt>
 			<nocomp enable="0"/>
