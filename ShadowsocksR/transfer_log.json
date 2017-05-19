@@ -66,5 +66,9 @@
 	"seaof-153-125-235-205.jp-tokyo-15.arukascloud.io" : {
 		"totalUploadBytes" : 9050,
 		"totalDownloadBytes" : 20976
+	},
+	"seaof-153-125-235-210.jp-tokyo-15.arukascloud.io" : {
+		"totalUploadBytes" : 16442,
+		"totalDownloadBytes" : 171725
 	}
 }
