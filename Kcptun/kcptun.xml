@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="gbk"?>
 <paras author="badcat">
 	<programpara>
-		<autostart>0</autostart>
-		<minimize>0</minimize>
+		<autostart>1</autostart>
+		<minimize>1</minimize>
 		<clientexedir>client_windows_amd64.exe</clientexedir>
 		<autoconn enable="0">5</autoconn>
 	</programpara>
@@ -62,6 +62,30 @@
 			<localport allowonlylocal="0">6116</localport>
 			<kcpserverip>seaof-153-125-239-240.jp-tokyo-28.arukascloud.io</kcpserverip>
 			<kcpserverport>31325</kcpserverport>
+			<key enable="1">ji9li7..</key>
+			<crypt enable="1">aes-192</crypt>
+			<nocomp enable="0"/>
+			<datashard enable="0"></datashard>
+			<parityshard enable="0"></parityshard>
+			<conn enable="0"></conn>
+			<mtu enable="0"></mtu>
+			<sndwnd enable="0"></sndwnd>
+			<rcvwnd enable="0"></rcvwnd>
+			<dscp enable="0"></dscp>
+			<autoexpire enable="0"></autoexpire>
+			<mode enable="1">fast</mode>
+			<nodelay enable="0"/>
+			<interval enable="0"></interval>
+			<resend enable="0"></resend>
+			<nc enable="0"/>
+			<acknodelay enable="0"/>
+			<keepalive enable="0"></keepalive>
+			<sockbuf enable="0"></sockbuf>
+		</node>	<node id="{5B044793-4195-4818-A06D-95499F9F2C07}" runstate="1" remark="SS+KCP4">
+			<json enable="0"></json>
+			<localport allowonlylocal="0">7758</localport>
+			<kcpserverip>seaof-153-125-232-243.jp-tokyo-06.arukascloud.io</kcpserverip>
+			<kcpserverport>31751</kcpserverport>
 			<key enable="1">ji9li7..</key>
 			<crypt enable="1">aes-192</crypt>
 			<nocomp enable="0"/>
