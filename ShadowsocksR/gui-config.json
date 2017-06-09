@@ -71,8 +71,8 @@
 		{
 			"remarks" : "SS+KCP3",
 			"id" : "FC4A8BBD05E36E9A1DA0365730F4C944",
-			"server" : "seaof-153-125-235-210.jp-tokyo-15.arukascloud.io",
-			"server_port" : 31114,
+			"server" : "seaof-153-125-239-241.jp-tokyo-28.arukascloud.io",
+			"server_port" : 31470,
 			"server_udp_port" : 0,
 			"password" : "ji9li7..",
 			"method" : "aes-256-cfb",
