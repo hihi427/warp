@@ -370,3 +370,44 @@
 [2017-06-04 13:05:56] failed to recv data in HandshakeReceive2Callback
 [2017-06-04 13:27:16] ShadowsocksR started on port 2047
 [2017-06-04 13:27:28] failed to recv data in HandshakeReceive2Callback
+[2017-06-05 00:54:28] ShadowsocksR started on port 2047
+[2017-06-05 00:54:39] [Warn] Proxy server [SS+KCP4(127.0.0.1)] connection refused
+[2017-06-05 00:54:40] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-05 00:54:41] [Warn] Proxy server [SS+KCP2(127.0.0.1)] connection refused
+[2017-06-05 00:54:43] [Warn] Proxy server [SS+KCP1(127.0.0.1)] connection refused
+[2017-06-05 00:54:44] [Warn] Proxy server [SS+KCP4(127.0.0.1)] connection refused
+[2017-06-05 00:54:45] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-05 00:54:46] [Warn] Proxy server [SS+KCP2(127.0.0.1)] connection refused
+[2017-06-05 00:54:47] [Warn] Proxy server [SS+KCP1(127.0.0.1)] connection refused
+[2017-06-05 00:54:49] [Warn] Proxy server [SS+KCP4(127.0.0.1)] connection refused
+[2017-06-05 00:54:50] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-05 00:54:51] [Warn] Proxy server [SS+KCP2(127.0.0.1)] connection refused
+[2017-06-05 00:54:52] [Warn] Proxy server [SS+KCP1(127.0.0.1)] connection refused
+[2017-06-05 00:54:52] [Error] connect to update server error
+[2017-06-05 09:13:37] [Error] connect to update server error
+[2017-06-05 09:13:38] ShadowsocksR started on port 2047
+[2017-06-08 15:57:17] [Error] connect to update server error
+[2017-06-09 10:44:14] [Warn] Proxy server [SS+KCP4(127.0.0.1)] connection refused
+[2017-06-09 10:44:14] [Warn] Proxy server [SS+KCP1(127.0.0.1)] connection refused
+[2017-06-09 10:44:14] [Warn] Proxy server [SS+KCP2(127.0.0.1)] connection refused
+[2017-06-09 10:44:14] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-09 10:44:14] [Warn] Proxy server [SS+KCP4(127.0.0.1)] connection refused
+[2017-06-09 10:44:14] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-09 10:44:14] [Warn] Proxy server [SS+KCP2(127.0.0.1)] connection refused
+[2017-06-09 10:44:14] [Warn] Proxy server [SS+KCP1(127.0.0.1)] connection refused
+[2017-06-09 10:44:42] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-09 10:44:42] [Warn] Proxy server [SS+KCP1(127.0.0.1)] connection refused
+[2017-06-09 10:44:42] [Warn] Proxy server [SS+KCP2(127.0.0.1)] connection refused
+[2017-06-09 10:44:42] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-09 10:44:42] [Warn] Proxy server [SS+KCP4(127.0.0.1)] connection refused
+[2017-06-09 10:44:42] [Warn] Proxy server [SS+KCP2(127.0.0.1)] connection refused
+[2017-06-09 10:44:42] [Warn] Proxy server [SS+KCP1(127.0.0.1)] connection refused
+[2017-06-09 10:44:42] [Warn] Proxy server [SS+KCP4(127.0.0.1)] connection refused
+[2017-06-09 23:56:40] [Error] System.IO.IOException: 文件“D:\GitHub\warp\ShadowsocksR\temp\ShadowsocksR-dotnet4.0.exe”正由另一进程使用，因此该进程无法访问此文件。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   在 Shadowsocks.Controller.FileManager.UncompressFile(String fileName, Byte[] content)
+   在 Shadowsocks.Controller.HttpProxyRunner..cctor()
+[2017-06-09 23:56:40] ShadowsocksR started on port 2047
+[2017-06-09 23:56:51] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused

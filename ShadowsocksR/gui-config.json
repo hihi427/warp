@@ -1,27 +1,10 @@
 {
 	"configs" : [
 		{
-			"remarks" : "SS+KCP4",
+			"remarks" : "SS+KCP3",
 			"id" : "E3C9BEAB3CCF9133198DD74883D8151A",
 			"server" : "127.0.0.1",
 			"server_port" : 7758,
-			"server_udp_port" : 0,
-			"password" : "ji9li7..",
-			"method" : "aes-256-cfb",
-			"protocol" : "origin",
-			"protocolparam" : "",
-			"obfs" : "plain",
-			"obfsparam" : "",
-			"remarks_base64" : "U1MrS0NQNA",
-			"group" : "KCPtun",
-			"enable" : true,
-			"udp_over_tcp" : false
-		},
-		{
-			"remarks" : "SS+KCP3",
-			"id" : "971F42CABD927E2B84F550DD3BAECDC8",
-			"server" : "127.0.0.1",
-			"server_port" : 6116,
 			"server_udp_port" : 0,
 			"password" : "ji9li7..",
 			"method" : "aes-256-cfb",
@@ -71,8 +54,8 @@
 		{
 			"remarks" : "SS+KCP3",
 			"id" : "FC4A8BBD05E36E9A1DA0365730F4C944",
-			"server" : "seaof-153-125-239-241.jp-tokyo-28.arukascloud.io",
-			"server_port" : 31470,
+			"server" : "seaof-153-125-237-239.jp-tokyo-20.arukascloud.io",
+			"server_port" : 31711,
 			"server_udp_port" : 0,
 			"password" : "ji9li7..",
 			"method" : "aes-256-cfb",
@@ -122,8 +105,8 @@
 		{
 			"remarks" : "SS3",
 			"id" : "5DA4EEAD27680CCBBC144BBC5982C16C",
-			"server" : "seaof-153-125-235-210.jp-tokyo-15.arukascloud.io",
-			"server_port" : 31972,
+			"server" : "seaof-153-125-237-242.jp-tokyo-20.arukascloud.io",
+			"server_port" : 31285,
 			"server_udp_port" : 0,
 			"password" : "ji9li7..",
 			"method" : "aes-256-cfb",
@@ -171,8 +154,8 @@
 			"udp_over_tcp" : false
 		}
 	],
-	"index" : 3,
-	"random" : true,
+	"index" : 0,
+	"random" : false,
 	"sysProxyMode" : 0,
 	"shareOverLan" : false,
 	"bypassWhiteList" : false,
