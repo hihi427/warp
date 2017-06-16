@@ -1,4 +1,19 @@
-﻿SSCap是一个Windows下C++版的Shadowsocks客户端. 相比其它的客户端更稳定更快速,不会出现其它版本中常现的接收数据错误.
+﻿SSCap是一个Windows下C++版的Shadowsocks客户端.
+
+2017.06.14 3.9
+1, 下传下载流量显示错误
+
+2017.06.13 3.8
+1, 添加SSR协议及混淆支持。origin/auth_sha1_v4/auth_aes128_md5/auth_aes128_sha1/auth_chain_a, plain/http_simple/http_post/random_head/tls1.2_ticket_auth
+2, 新添加加密方式：none/aes-128-ctr/aes-192-ctr/aes-256-ctr/rc4-md5-6
+3, 主界面列表的每一列可选择是否显示(应网友要求)
+4, 改进流量统计功能
+5, 测试窗口自动跟随主界体
+6, 节点地址显示节点所在国家信息
+7, 程序启动时清零节点速度及延迟信息
+8, 支持分别从SS/SSR格式链接添加节点
+9, 支持将节点信息拷贝到SS/SSR格式的链接或二维码
+10, 去掉本地IP库，改为从线上取IP位置
 
 2017.04.14 3.7
 1, 修改IP显示的一个BUG.

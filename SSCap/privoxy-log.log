@@ -69,3 +69,5 @@
 2017-05-21 00:50:06.907 00002f7c Error: No server or forwarder response received on socket 2180.
 2017-05-21 00:50:06.907 000019c4 Error: No server or forwarder response received on socket 2368.
 2017-05-21 00:50:06.907 00002434 Error: No server or forwarder response received on socket 2164.
+2017-06-13 17:47:35.024 00000f18 Error: Couldn't deliver the error message through client socket 1096: WSAECONNRESET - Connection reset by peer.
+2017-06-15 07:53:31.376 00000d38 Error: Couldn't deliver the error message through client socket 1276: WSAECONNRESET - Connection reset by peer.
