@@ -10807,7 +10807,6 @@
 .whxz.org localproxy
 .wifun.com localproxy
 .wihu.com localproxy
-.wikipedia.org localproxy
 .williamlong.info localproxy
 .win007.com localproxy
 .win7china.com localproxy

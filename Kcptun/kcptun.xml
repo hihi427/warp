@@ -7,11 +7,35 @@
 		<autoconn enable="0">5</autoconn>
 	</programpara>
 	<clientnodes>
-		<node id="{67B81306-2B7B-4761-ACB1-399CC71A137A}" runstate="1" remark="SS+KCP1">
+		<node id="{67B81306-2B7B-4761-ACB1-399CC71A137A}" runstate="1" remark="KCP1">
 			<json enable="0">kcptun.xml</json>
+			<localport allowonlylocal="0">5566</localport>
+			<kcpserverip>seaof-153-125-237-142.jp-tokyo-17.arukascloud.io</kcpserverip>
+			<kcpserverport>31426</kcpserverport>
+			<key enable="1">ji9li7..</key>
+			<crypt enable="1">aes-192</crypt>
+			<nocomp enable="0"/>
+			<datashard enable="0"></datashard>
+			<parityshard enable="0"></parityshard>
+			<conn enable="0"></conn>
+			<mtu enable="0"></mtu>
+			<sndwnd enable="0"></sndwnd>
+			<rcvwnd enable="0"></rcvwnd>
+			<dscp enable="0"></dscp>
+			<autoexpire enable="0"></autoexpire>
+			<mode enable="1">fast</mode>
+			<nodelay enable="0"/>
+			<interval enable="0"></interval>
+			<resend enable="0"></resend>
+			<nc enable="0"/>
+			<acknodelay enable="0"/>
+			<keepalive enable="0"></keepalive>
+			<sockbuf enable="0"></sockbuf>
+		</node>	<node id="{5976064D-3C15-411C-A555-CC683B59E8CD}" runstate="1" remark="KCP2">
+			<json enable="0"></json>
 			<localport allowonlylocal="0">7788</localport>
-			<kcpserverip>seaof-153-125-235-210.jp-tokyo-15.arukascloud.io</kcpserverip>
-			<kcpserverport>31618</kcpserverport>
+			<kcpserverip>seaof-153-125-235-211.jp-tokyo-15.arukascloud.io</kcpserverip>
+			<kcpserverport>31043</kcpserverport>
 			<key enable="1">ji9li7..</key>
 			<crypt enable="1">aes-192</crypt>
 			<nocomp enable="0"/>
@@ -32,36 +56,11 @@
 			<keepalive enable="0"></keepalive>
 			<sockbuf enable="0"></sockbuf>
 		</node>
-		<node id="{839E7D6F-982E-47B7-B431-E3502587DC34}" runstate="1" remark="SS+KCP2">
+		<node id="{BBCD00C2-780A-4CE9-9FCB-0101E33782F8}" runstate="1" remark="KCP3">
 			<json enable="0"></json>
 			<localport allowonlylocal="0">8904</localport>
-			<kcpserverip>seaof-153-125-235-237.jp-tokyo-16.arukascloud.io</kcpserverip>
-			<kcpserverport>31312</kcpserverport>
-			<key enable="1">ji9li7..</key>
-			<crypt enable="1">aes-192</crypt>
-			<nocomp enable="0"/>
-			<datashard enable="0"></datashard>
-			<parityshard enable="0"></parityshard>
-			<conn enable="0"></conn>
-			<mtu enable="0"></mtu>
-			<sndwnd enable="0"></sndwnd>
-			<rcvwnd enable="0"></rcvwnd>
-			<dscp enable="0"></dscp>
-			<autoexpire enable="0"></autoexpire>
-			<mode enable="1">fast</mode>
-			<nodelay enable="0"/>
-			<interval enable="0"></interval>
-			<resend enable="0"></resend>
-			<nc enable="0"/>
-			<acknodelay enable="0"/>
-			<keepalive enable="0"></keepalive>
-			<sockbuf enable="0"></sockbuf>
-		</node>
-		<node id="{5B044793-4195-4818-A06D-95499F9F2C07}" runstate="1" remark="SS+KCP3">
-			<json enable="0"></json>
-			<localport allowonlylocal="0">7758</localport>
-			<kcpserverip>seaof-153-125-237-239.jp-tokyo-20.arukascloud.io</kcpserverip>
-			<kcpserverport>31713</kcpserverport>
+			<kcpserverip>seaof-153-125-235-175.jp-tokyo-14.arukascloud.io</kcpserverip>
+			<kcpserverport>31217</kcpserverport>
 			<key enable="1">ji9li7..</key>
 			<crypt enable="1">aes-192</crypt>
 			<nocomp enable="0"/>

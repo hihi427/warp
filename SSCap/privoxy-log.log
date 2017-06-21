@@ -71,3 +71,15 @@
 2017-05-21 00:50:06.907 00002434 Error: No server or forwarder response received on socket 2164.
 2017-06-13 17:47:35.024 00000f18 Error: Couldn't deliver the error message through client socket 1096: WSAECONNRESET - Connection reset by peer.
 2017-06-15 07:53:31.376 00000d38 Error: Couldn't deliver the error message through client socket 1276: WSAECONNRESET - Connection reset by peer.
+2017-06-21 20:04:46.984 00000d94 Error: select(2) reported connected clients (number = 1, descriptor boundary = 637), but none found.
+2017-06-21 20:04:46.984 00000d94 Error: Graceful termination requested
+2017-06-21 20:05:01.867 00001c58 Error: Graceful termination requested
+2017-06-21 20:05:08.776 000014e0 Error: select(2) reported connected clients (number = 1, descriptor boundary = 653), but none found.
+2017-06-21 20:05:08.776 000014e0 Error: Graceful termination requested
+2017-06-21 20:05:24.954 000027cc Error: select(2) reported connected clients (number = 1, descriptor boundary = 689), but none found.
+2017-06-21 20:05:24.955 000027cc Error: Graceful termination requested
+2017-06-21 20:21:49.700 0000110c Error: Graceful termination requested
+2017-06-21 20:21:59.870 0000169c Error: Graceful termination requested
+2017-06-21 20:22:38.591 00001c90 Error: Graceful termination requested
+2017-06-21 20:23:52.433 00000e10 Error: Couldn't deliver the error message through client socket 1144: WSAECONNRESET - Connection reset by peer.
+2017-06-21 20:24:06.525 00000c1c Error: Graceful termination requested

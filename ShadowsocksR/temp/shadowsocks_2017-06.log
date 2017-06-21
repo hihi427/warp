@@ -475,3 +475,194 @@
 [2017-06-16 00:03:43] [Info] Disconnect raw.githubusercontent.com:443
 [2017-06-16 10:21:38] [Error] connect to update server error
 [2017-06-16 10:21:43] ShadowsocksR started on port 2047
+[2017-06-21 19:59:55] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:00:45] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:00:45] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:01:15] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:01:15] [Error] connect to update server error
+[2017-06-21 20:07:11] ShadowsocksR started on port 2047
+[2017-06-21 20:07:12] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:13] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:13] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:14] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:14] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:15] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:15] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:07:15] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:16] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:17] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:18] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:18] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:19] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:19] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:07:19] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:20] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:20] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:21] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:21] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:21] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:22] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:22] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:22] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:23] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:07:23] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:23] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:24] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:24] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:24] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:25] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:25] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:07:25] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:25] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:25] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:26] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:26] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:26] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:26] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:07:27] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:27] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:28] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:28] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:07:28] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:29] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:30] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:31] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:31] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:32] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:32] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:07:32] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:33] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:33] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:34] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:34] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:35] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:36] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:07:36] [Error] connect to update server error
+[2017-06-21 20:07:52] ShadowsocksR started on port 2047
+[2017-06-21 20:07:52] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:53] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:54] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:55] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:55] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:56] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:56] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:56] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:07:56] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:57] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:57] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:57] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:57] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:58] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:58] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:58] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:58] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:07:59] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:59] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:07:59] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:07:59] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:00] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:08:00] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:00] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:01] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:01] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:01] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:02] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:02] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:02] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:02] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:02] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:03] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:03] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:03] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:03] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:03] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:08:03] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:03] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:08:03] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:04] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:04] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:04] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:04] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:04] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:04] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:05] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:05] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:05] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:05] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:08:05] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:05] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:06] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:06] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:06] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:07] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:07] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:07] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:08:07] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:07] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:08:08] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:08] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:08] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:08] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:09] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:09] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:09] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:09] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:08:09] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:10] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:10] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:10] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:10] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:08:10] [Error] connect to update server error
+[2017-06-21 20:08:11] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:12] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:13] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:13] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:08:13] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:14] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:14] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:15] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:15] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:08:16] [Warn] Proxy server [SS+KCP3(127.0.0.1)] connection refused
+[2017-06-21 20:08:16] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:08:16] [Error] connect to update server error
+[2017-06-21 20:13:21] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:13:23] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:13:25] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:13:28] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:13:28] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:13:30] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:13:33] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:13:35] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:13:35] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:13:38] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:13:40] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:13:43] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:13:43] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:13:45] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:13:47] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:13:50] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:13:50] [Error] connect to update server error
+[2017-06-21 20:23:52] [Error] System.Exception: 端口已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config, Int32 port)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+[2017-06-21 20:23:59] [Error] System.Exception: 端口已被占用
+   在 Shadowsocks.Controller.Listener.Start(Configuration config, Int32 port)
+   在 Shadowsocks.Controller.ShadowsocksController.Reload()
+[2017-06-21 20:24:02] [Error] connect to update server error
+[2017-06-21 20:24:10] ShadowsocksR started on port 2047
+[2017-06-21 20:24:20] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:26:01] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 20:29:20] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 20:31:01] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 21:29:58] ShadowsocksR started on port 2047
+[2017-06-21 21:29:58] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 21:30:08] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 21:30:09] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 21:31:50] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 21:31:50] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 21:35:08] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 21:36:49] [Info] Disconnect raw.githubusercontent.com:443
+[2017-06-21 22:33:39] ShadowsocksR started on port 2047
+[2017-06-21 22:33:39] [Info] Connect raw.githubusercontent.com:443
+[2017-06-21 22:33:59] ShadowsocksR started on port 2047
+[2017-06-21 22:34:00] [Info] Connect raw.githubusercontent.com:443
