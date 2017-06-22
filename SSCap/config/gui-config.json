@@ -3,10 +3,10 @@
    "autoban" : false,
    "configs" : [
       {
-         "ConnectedTimes" : 694,
-         "Download_traffic" : 1274311369.0,
-         "FailureTimes" : 2,
-         "Upload_traffic" : 1193317.0,
+         "ConnectedTimes" : 1,
+         "Download_traffic" : 0.0,
+         "FailureTimes" : 0,
+         "Upload_traffic" : 0.0,
          "charge_type" : 0,
          "enable" : true,
          "group" : "",
@@ -25,10 +25,10 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 352,
-         "Download_traffic" : 16650814.0,
+         "ConnectedTimes" : 1,
+         "Download_traffic" : 0.0,
          "FailureTimes" : 0,
-         "Upload_traffic" : 1583426.0,
+         "Upload_traffic" : 0.0,
          "charge_type" : 0,
          "enable" : true,
          "group" : "",
@@ -41,16 +41,16 @@
          "protocol" : "origin",
          "protocolparam" : "",
          "remarks" : "SS2",
-         "server" : "seaof-153-125-231-172.jp-tokyo-02.arukascloud.io",
-         "server_port" : 31547,
+         "server" : "seaof-153-125-237-140.jp-tokyo-17.arukascloud.io",
+         "server_port" : 31157,
          "server_udp_port" : 0,
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 749,
-         "Download_traffic" : 108337573.0,
+         "ConnectedTimes" : 1,
+         "Download_traffic" : 0.0,
          "FailureTimes" : 0,
-         "Upload_traffic" : 1478906.0,
+         "Upload_traffic" : 0.0,
          "charge_type" : 0,
          "enable" : true,
          "group" : "",
@@ -63,16 +63,16 @@
          "protocol" : "origin",
          "protocolparam" : "",
          "remarks" : "SS3",
-         "server" : "seaof-153-125-231-172.jp-tokyo-02.arukascloud.io",
-         "server_port" : 31644,
+         "server" : "seaof-153-125-237-140.jp-tokyo-17.arukascloud.io",
+         "server_port" : 31743,
          "server_udp_port" : 0,
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 105,
-         "Download_traffic" : 331637228.0,
-         "FailureTimes" : 5,
-         "Upload_traffic" : 599858.0,
+         "ConnectedTimes" : 1,
+         "Download_traffic" : 0.0,
+         "FailureTimes" : 0,
+         "Upload_traffic" : 0.0,
          "charge_type" : 0,
          "enable" : true,
          "group" : "",
@@ -91,10 +91,10 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 1340,
-         "Download_traffic" : 3001591816.0,
-         "FailureTimes" : 3,
-         "Upload_traffic" : 6147765.0,
+         "ConnectedTimes" : 6,
+         "Download_traffic" : 66138655.0,
+         "FailureTimes" : 0,
+         "Upload_traffic" : 79569.0,
          "charge_type" : 0,
          "enable" : true,
          "group" : "",
@@ -135,7 +135,7 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 5,
+         "ConnectedTimes" : 1,
          "Download_traffic" : 0.0,
          "FailureTimes" : 0,
          "Upload_traffic" : 0.0,
@@ -151,8 +151,8 @@
          "protocol" : "origin",
          "protocolparam" : "",
          "remarks" : "KCPSS1",
-         "server" : "seaof-153-125-237-142.jp-tokyo-17.arukascloud.io",
-         "server_port" : 31424,
+         "server" : "seaof-153-125-237-141.jp-tokyo-17.arukascloud.io",
+         "server_port" : 31721,
          "server_udp_port" : 0,
          "udp_over_tcp" : 0
       },
@@ -179,7 +179,7 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 2,
+         "ConnectedTimes" : 1,
          "Download_traffic" : 0.0,
          "FailureTimes" : 0,
          "Upload_traffic" : 0.0,
@@ -195,8 +195,8 @@
          "protocol" : "origin",
          "protocolparam" : "",
          "remarks" : "KCPSS3",
-         "server" : "seaof-153-125-235-175.jp-tokyo-14.arukascloud.io",
-         "server_port" : 31215,
+         "server" : "seaof-153-125-237-140.jp-tokyo-17.arukascloud.io",
+         "server_port" : 31969,
          "server_udp_port" : 0,
          "udp_over_tcp" : 0
       }
