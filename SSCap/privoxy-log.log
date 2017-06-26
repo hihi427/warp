@@ -85,3 +85,4 @@
 2017-06-21 20:24:06.525 00000c1c Error: Graceful termination requested
 2017-06-21 21:30:10.535 00001020 Error: Couldn't deliver the error message through client socket 1148: WSAECONNRESET - Connection reset by peer.
 2013-01-01 00:08:59.823 00000e00 Error: Couldn't deliver the error message through client socket 1148: WSAECONNRESET - Connection reset by peer.
+2017-06-26 20:13:02.754 00000d80 Error: Couldn't deliver the error message through client socket 1108: WSAECONNRESET - Connection reset by peer.
