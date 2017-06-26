@@ -11,7 +11,7 @@
 			<json enable="0">kcptun.xml</json>
 			<localport allowonlylocal="0">5566</localport>
 			<kcpserverip>seaof-153-125-239-142.jp-tokyo-25.arukascloud.io</kcpserverip>
-			<kcpserverport>31085</kcpserverport>
+			<kcpserverport>31638</kcpserverport>
 			<key enable="1">ji9li7..</key>
 			<crypt enable="1">aes-192</crypt>
 			<nocomp enable="0"/>
@@ -31,12 +31,13 @@
 			<acknodelay enable="0"/>
 			<keepalive enable="0"></keepalive>
 			<sockbuf enable="0"></sockbuf>
-		</node>	<node id="{5976064D-3C15-411C-A555-CC683B59E8CD}" runstate="1" remark="KCP2">
+		</node>
+		<node id="{5976064D-3C15-411C-A555-CC683B59E8CD}" runstate="1" remark="KCP2">
 			<json enable="0"></json>
 			<localport allowonlylocal="0">7788</localport>
-			<kcpserverip>seaof-153-125-235-211.jp-tokyo-15.arukascloud.io</kcpserverip>
-			<kcpserverport>31043</kcpserverport>
-			<key enable="1">ji9li7..</key>
+			<kcpserverip>seaof-153-125-239-142.jp-tokyo-25.arukascloud.io</kcpserverip>
+			<kcpserverport>31051</kcpserverport>
+			<key enable="1">phpgao</key>
 			<crypt enable="1">aes-192</crypt>
 			<nocomp enable="0"/>
 			<datashard enable="0"></datashard>
