@@ -3,10 +3,10 @@
    "autoban" : false,
    "configs" : [
       {
-         "ConnectedTimes" : 1,
-         "Download_traffic" : 0.0,
+         "ConnectedTimes" : 26,
+         "Download_traffic" : 25447.0,
          "FailureTimes" : 0,
-         "Upload_traffic" : 0.0,
+         "Upload_traffic" : 14281.0,
          "charge_type" : 0,
          "enable" : true,
          "group" : "",
@@ -25,7 +25,7 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 1,
+         "ConnectedTimes" : 8,
          "Download_traffic" : 0.0,
          "FailureTimes" : 0,
          "Upload_traffic" : 0.0,
@@ -47,8 +47,8 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 1,
-         "Download_traffic" : 62.0,
+         "ConnectedTimes" : 8,
+         "Download_traffic" : 391.0,
          "FailureTimes" : 0,
          "Upload_traffic" : 37.0,
          "charge_type" : 0,
@@ -69,10 +69,10 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 1,
-         "Download_traffic" : 0.0,
+         "ConnectedTimes" : 50,
+         "Download_traffic" : 1298050.0,
          "FailureTimes" : 0,
-         "Upload_traffic" : 0.0,
+         "Upload_traffic" : 60950.0,
          "charge_type" : 0,
          "enable" : true,
          "group" : "",
@@ -91,10 +91,10 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 1,
-         "Download_traffic" : 0.0,
+         "ConnectedTimes" : 1902,
+         "Download_traffic" : 564068259.0,
          "FailureTimes" : 0,
-         "Upload_traffic" : 0.0,
+         "Upload_traffic" : 5545098.0,
          "charge_type" : 0,
          "enable" : true,
          "group" : "",
@@ -113,7 +113,7 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 1,
+         "ConnectedTimes" : 9,
          "Download_traffic" : 0.0,
          "FailureTimes" : 0,
          "Upload_traffic" : 0.0,
@@ -135,10 +135,10 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 1,
-         "Download_traffic" : 0.0,
-         "FailureTimes" : 0,
-         "Upload_traffic" : 0.0,
+         "ConnectedTimes" : 292,
+         "Download_traffic" : 10717988.0,
+         "FailureTimes" : 1,
+         "Upload_traffic" : 1093016.0,
          "charge_type" : 0,
          "enable" : true,
          "group" : "",
@@ -157,7 +157,7 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 1,
+         "ConnectedTimes" : 8,
          "Download_traffic" : 0.0,
          "FailureTimes" : 0,
          "Upload_traffic" : 0.0,
@@ -179,7 +179,7 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 1,
+         "ConnectedTimes" : 8,
          "Download_traffic" : 0.0,
          "FailureTimes" : 0,
          "Upload_traffic" : 0.0,
@@ -203,7 +203,7 @@
    ],
    "enable" : true,
    "global" : true,
-   "idInUse" : 4,
+   "idInUse" : 3,
    "index" : 0,
    "localPort" : 2046,
    "localSocksPass" : "",
