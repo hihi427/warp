@@ -86,3 +86,7 @@
 2017-06-21 21:30:10.535 00001020 Error: Couldn't deliver the error message through client socket 1148: WSAECONNRESET - Connection reset by peer.
 2013-01-01 00:08:59.823 00000e00 Error: Couldn't deliver the error message through client socket 1148: WSAECONNRESET - Connection reset by peer.
 2017-06-26 20:13:02.754 00000d80 Error: Couldn't deliver the error message through client socket 1108: WSAECONNRESET - Connection reset by peer.
+2017-06-27 11:46:32.891 00000b00 Error: No server or forwarder response received on socket 2148.
+2017-06-27 11:46:32.891 00001dc8 Error: No server or forwarder response received on socket 2536.
+2017-06-27 11:46:32.893 000025d0 Error: No server or forwarder response received on socket 1656.
+2017-06-27 11:46:37.968 000027e4 Error: Couldn't deliver the error message through client socket 2272: WSAECONNABORTED - Software caused connection abort.
