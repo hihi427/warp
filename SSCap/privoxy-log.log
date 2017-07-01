@@ -90,3 +90,6 @@
 2017-06-27 11:46:32.891 00001dc8 Error: No server or forwarder response received on socket 2536.
 2017-06-27 11:46:32.893 000025d0 Error: No server or forwarder response received on socket 1656.
 2017-06-27 11:46:37.968 000027e4 Error: Couldn't deliver the error message through client socket 2272: WSAECONNABORTED - Software caused connection abort.
+2017-06-30 20:06:38.525 00000914 Error: No server or forwarder response received on socket 2060.
+2017-06-30 20:06:38.526 000021d4 Error: No server or forwarder response received on socket 2064.
+2017-06-30 20:06:42.766 000016fc Error: No server or forwarder response received on socket 2092.
