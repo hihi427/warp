@@ -3,7 +3,7 @@
    "autoban" : false,
    "configs" : [
       {
-         "ConnectedTimes" : 36,
+         "ConnectedTimes" : 40,
          "Download_traffic" : 25447.0,
          "FailureTimes" : 0,
          "Upload_traffic" : 14281.0,
@@ -25,7 +25,7 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 18,
+         "ConnectedTimes" : 22,
          "Download_traffic" : 0.0,
          "FailureTimes" : 0,
          "Upload_traffic" : 0.0,
@@ -47,7 +47,7 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 21,
+         "ConnectedTimes" : 25,
          "Download_traffic" : 391.0,
          "FailureTimes" : 0,
          "Upload_traffic" : 37.0,
@@ -69,7 +69,7 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 761,
+         "ConnectedTimes" : 770,
          "Download_traffic" : 101265233.0,
          "FailureTimes" : 8,
          "Upload_traffic" : 1950705.0,
@@ -91,9 +91,9 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 5743,
+         "ConnectedTimes" : 5757,
          "Download_traffic" : 1212251168.0,
-         "FailureTimes" : 8,
+         "FailureTimes" : 16,
          "Upload_traffic" : 17466619.0,
          "charge_type" : 0,
          "enable" : true,
@@ -113,10 +113,10 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 1778,
-         "Download_traffic" : 149640081.0,
+         "ConnectedTimes" : 2103,
+         "Download_traffic" : 183808986.0,
          "FailureTimes" : 0,
-         "Upload_traffic" : 4170786.0,
+         "Upload_traffic" : 5098662.0,
          "charge_type" : 0,
          "enable" : true,
          "group" : "",
@@ -135,9 +135,9 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 304,
+         "ConnectedTimes" : 310,
          "Download_traffic" : 10717988.0,
-         "FailureTimes" : 1,
+         "FailureTimes" : 4,
          "Upload_traffic" : 1093016.0,
          "charge_type" : 0,
          "enable" : true,
@@ -151,13 +151,13 @@
          "protocol" : "origin",
          "protocolparam" : "",
          "remarks" : "KCPSS1",
-         "server" : "seaof-153-125-235-204.jp-tokyo-15.arukascloud.io",
-         "server_port" : 31543,
+         "server" : "seaof-153-125-235-210.jp-tokyo-15.arukascloud.io",
+         "server_port" : 31068,
          "server_udp_port" : 0,
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 18,
+         "ConnectedTimes" : 22,
          "Download_traffic" : 0.0,
          "FailureTimes" : 0,
          "Upload_traffic" : 0.0,
@@ -179,7 +179,7 @@
          "udp_over_tcp" : 0
       },
       {
-         "ConnectedTimes" : 18,
+         "ConnectedTimes" : 21,
          "Download_traffic" : 0.0,
          "FailureTimes" : 0,
          "Upload_traffic" : 0.0,
