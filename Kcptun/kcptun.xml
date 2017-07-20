@@ -35,8 +35,8 @@
 		<node id="{5976064D-3C15-411C-A555-CC683B59E8CD}" runstate="1" remark="KCP2">
 			<json enable="0"></json>
 			<localport allowonlylocal="0">7788</localport>
-			<kcpserverip>seaof-153-125-239-142.jp-tokyo-25.arukascloud.io</kcpserverip>
-			<kcpserverport>31773</kcpserverport>
+			<kcpserverip>seaof-153-125-239-145.jp-tokyo-25.arukascloud.io</kcpserverip>
+			<kcpserverport>31134</kcpserverport>
 			<key enable="1">phpgao</key>
 			<crypt enable="1">aes-192</crypt>
 			<nocomp enable="0"/>
